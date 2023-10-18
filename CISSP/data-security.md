@@ -4,17 +4,17 @@ Here are descriptions of the data protection topics:
 
 - **Create/Creation**: The process of generating new data or information.
 
-- **Classification**: Categorizing data based on its sensitivity and importance to determine security controls. 
+- **Classification**: Categorizing data based on its sensitivity and importance to determine security controls. Data should be classified as soon as possible after creation to facilitate data protection.
 
-- **Store/Storage**: Saving and retaining data in a repository like a database or file server.
+- **Store/Storage**: Saving and retaining data in a repository like a database or file server. Data should be encrypted at rest.
 
-- **Use/Usage**: Accessing and utilizing data for its intended business purpose.
+- **Use/Usage**: Accessing and utilizing data for its intended business purpose. Data should be encrypted in-transit.
 
-- **Share/Sharing**: Disseminating or providing access to data to authorized users. 
+- **Share/Sharing**: Disseminating or providing access to data to authorized users. Data protection should travel with the data, even outside the organization.
 
 - **Archival/Retention**: Storing data long-term for legal, compliance or historical purposes. 
 
-- **Destruction**: Permanently deleting data when no longer needed.
+- **Destruction**: Permanently deleting data when no longer needed. Data should be destroyed as quickly as allowable, as additional data = additional risk.
 
 ## Data Destruction
 
