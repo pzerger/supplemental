@@ -1,27 +1,7 @@
 # Forensic Concepts
 
 - [Types of Evidence](#types-of-evidence)
-  - [Original Evidence](#original-evidence)
-  - [Secondary Evidence](#secondary-evidence)
-  - [Circumstantial Evidence](#circumstantial-evidence)
-  - [Conclusive Evidence](#conclusive-evidence)
-  - [Corroborative Evidence](#corroborative-evidence)
-  - [Direct Evidence](#direct-evidence)
-  - [Documentary Evidence](#documentary-evidence)
-  - [Hearsay Evidence](#hearsay-evidence)
-  - [Opinions (Evidence)](#opinions-evidence)
-  - [Possession](#possession)
-  - [Real Evidence](#real-evidence)
-  - [Testimonial Evidence](#testimonial-evidence)
 - [Evidence Collection, Handling, and Admissibility](#evidence-collection-handling-and-admissibility)
-  - [Best Evidence](#best-evidence)
-  - [Importance of Collecting Evidence](#importance-of-collecting-evidence)
-  - [Chain of Custody](#chain-of-custody)
-  - [Modification](#modification) 
-  - [Subpoena](#subpoena)
-  - [Search Warrant](#search-warrant)
-  - [Voluntary Surrender](#voluntary-surrender)
-  - [For Evidence to be Admissible](#for-evidence-to-be-admissible)
 
 ## Types of Evidence
 
