@@ -50,6 +50,8 @@ Here are descriptions of the data protection topics:
 
 - **Tape Backup Security**: Protecting tape backups from theft/damage.
 
+- **Tokenization**: Protecting tape backups from theft/damage.
+
 ## Data Roles
 
 - **Asset Owners**: Responsible for an organization's assets.
