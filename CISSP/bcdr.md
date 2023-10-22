@@ -1,10 +1,26 @@
-# Business Continuity and Disaster Recovery (BCDR)
+# Business Continuity and Disaster Recovery
+
+- [Goals of BCDR](#goals-of-bcdr)
+
+- [Processes and Plans](#processes-and-plans) 
+
+- [Metrics](#metrics)
+
+- [Types of Impacts](#types-of-impacts)
+
+- [Testing](#testing)
+
+- [Types of Sites](#types-of-sites)
+
+- [Teams](#teams)
 
 ### Goals of BCDR
 The primary goals of BCDR include:
 - **Protection**: Safeguard critical business functions and assets from disruptions.
 - **Recovery**: Restore critical functions and processes after a disruption.
 - **Continuity**: Ensure continuous business operations, even during disruptions.
+
+[Back to ToC](#business-continuity-and-disaster-recovery)
 
 ### Processes and Plans
 1. **Business Impact Analysis (BIA)**: This identifies the impact of disruptions on business operations and establishes priorities for recovery.
@@ -15,6 +31,8 @@ The primary goals of BCDR include:
 6. **Mutual Assistance Agreements (MAAs)**: Agreements between entities to provide mutual aid in the event of a disaster. 
 
 Relationship: BIA → BCP → DRP → BRP. SLAs and MAAs serve as supportive documents to ensure the effectiveness and cooperative nature of the plans.
+
+[Back to ToC](#business-continuity-and-disaster-recovery)
 
 ### Metrics
 - **Mean Time Between Failures (MTBF)**: Average time between system failures.
@@ -32,12 +50,16 @@ Relationship: BIA → BCP → DRP → BRP. SLAs and MAAs serve as supportive doc
 4. **Natural Disasters**: Events caused by natural phenomena like earthquakes or hurricanes.
 5. **Non-Disaster (categories of disruption)**: Minor disruptions that don't significantly affect business like a short-term power outage.
 
+[Back to ToC](#business-continuity-and-disaster-recovery)
+
 ### Testing
 - **Full Interruption Test**: Live testing, fully interrupting and replacing the primary system.
 - **Read-through Test**: Verbal exercise, reviewing the plan for accuracy and comprehension.
 - **Parallel Test**: Live testing, running systems in parallel (backup and primary).
 - **Simulation Test**: Live scenario without real interruption.
 - **Structured Walk-through**: Verbal exercise, team members discuss and walk through scenarios.
+
+[Back to ToC](#business-continuity-and-disaster-recovery)
 
 ### Types of Sites
 - **Cold Site**: Minimal infrastructure, no immediate availability. Cost: Low, Recovery Effort: High.
@@ -46,6 +68,10 @@ Relationship: BIA → BCP → DRP → BRP. SLAs and MAAs serve as supportive doc
 - **Mobile Site**: Portable, can be set up at or near a disaster site.
 - **Service Bureau**: Outsourced site, often provided by a third-party vendor.
 
+[Back to ToC](#business-continuity-and-disaster-recovery)
+
 ### Teams
 - **Recovery Team**: Focuses on recovering operations after a disruption.
 - **Salvage Team**: Focuses on saving and recovering assets from the disrupted site.
+
+[Back to ToC](#business-continuity-and-disaster-recovery)
