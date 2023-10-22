@@ -14,7 +14,7 @@
 
 - **Kerberos** - Authentication protocol using secret-key cryptography and a trusted third party - the key distribution center. Provides single sign-on. 
 
-- **Biometric Systems** - Uses biological traits like fingerprints or retina scans to identify individuals. Avoid issues like lost passwords.
+- **Biometric Systems** - Uses biological traits like fingerprints or retina scans to identify individuals. Avoids issues like lost passwords.
 
 - **One-Time Password** - Password only valid for a single session or transaction. Protects against replay attacks.
 
