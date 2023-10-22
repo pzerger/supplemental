@@ -66,6 +66,6 @@
 
 - **False Rejection Rate** - Percentage of valid inputs incorrectly rejected as invalid by a biometric system. Measure of type II errors.
 
-- **Crossover Error Rate** - Rate at which false acceptances equal false rejections in a biometric system. Used to measure system accuracy.
+- **Crossover Error Rate** - Rate at which false acceptances (type 1 errors) equal false rejections (type 2 errors) in a biometric system. Used to measure system accuracy.
 
 [Back to ToC](#identity-and-access-management-concepts)
