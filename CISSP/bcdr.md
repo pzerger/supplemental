@@ -1,17 +1,11 @@
 # Business Continuity and Disaster Recovery
 
 - [Goals of BCDR](#goals-of-bcdr)
-
 - [Processes and Plans](#processes-and-plans) 
-
 - [Metrics](#metrics)
-
 - [Types of Impacts](#types-of-impacts)
-
 - [Testing](#testing)
-
 - [Types of Sites](#types-of-sites)
-
 - [Teams](#teams)
 
 ### Goals of BCDR
