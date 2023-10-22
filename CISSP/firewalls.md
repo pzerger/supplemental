@@ -44,6 +44,7 @@ Firewalls serve as a critical security component for protecting networks and sys
   - Installed on an existing OS (e.g., Windows, Linux).
   - Common on end-user devices for personal protection.
   - Offers granularity in configuration per device.
+  - Easier for attackers to disable, often simply disabling a service.
 
 ### Host-based Firewall
 - **Definition**: Firewall software installed on a single host or device.
