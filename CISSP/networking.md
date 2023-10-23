@@ -287,6 +287,10 @@
 
 **VLAN (Virtual LAN)** - Logical grouping and isolation of network nodes even if physically connected to the same network. Operates at data link layer (Layer 2).
 
+**VXLAN (Virtual eXtensible LAN)** -  network virtualization technology that attempts to address the scalability problems associated with large cloud computing deployments. It uses a VLAN-like encapsulation technique to encapsulate OSI layer 2 Ethernet frames within layer 4 UDP datagrams, using 4789 as the default IANA-assigned destination UDP port number.
+
+Compared to VLAN, which provides limited number of layer-2 VLANs (typically using 12-bit VLAN ID), VXLAN increases scalability up to 16 million logical networks (with 24-bit VNID) and allows for layer-2 adjacency across IP networks.
+
 **VPN (Virtual Private Network)** - Extends a private network across public networks to provide secure remote access. Operates at higher layers.
 
 [Return to ToC](#table-of-contents)
