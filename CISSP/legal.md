@@ -1,6 +1,6 @@
 Here is the markdown file with an expanded table of contents:
 
-# Laws, Regulations, and Intellectual Property 
+# Laws, Regulations, and Intellectual Property
 
 [Laws and Regulations](#laws-and-regulations)
 
@@ -40,7 +40,7 @@ More detail at [Bank Secrecy Act on Wikipedia](https://en.wikipedia.org/wiki/Ban
 
 ### Communications Assistance for Law Enforcement Act (CALEA)
 
-- Purpose: A United States  wiretapping law to require telecommunications carriers and manufacturers of telecommunications equipment to modify and design their equipment, facilities, and services to ensure that they have built-in capabilities enabling law enforcement agencies to conduct authorized surveillance of all telephone, broadband internet, and VoIP traffic. 
+- Purpose: A United States  wiretapping law to require telecommunications carriers and manufacturers of telecommunications equipment to modify and design their equipment, facilities, and services to ensure that they have built-in capabilities enabling law enforcement agencies to conduct authorized surveillance of all telephone, broadband internet, and VoIP traffic.
 - Applies to: telephone companies, broadband internet service providers, and interconnected VoIP service providers.
 - Enforced by: U.S. Federal Communications Commission (FCC).
 
