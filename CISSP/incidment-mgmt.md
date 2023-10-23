@@ -207,11 +207,3 @@ Here are the steps and key activities for each incident response framework:
 5. Recovery - Returning affected systems back to normal operations. 
 
 6. Lessons Learned - Documenting the incident and identifying improvements.
-
-## Conclusion
-
-Note that the language in questions on practice quizzes may be less precise than the actual exam.
-
-I hope these notes are helpful. Feel free to reach out with questions.
-
-Good luck on the exam!
