@@ -10,6 +10,8 @@ In these notes, you will find:
 - [Containing an incident](#containing-an-incident) 
 - [Incident Management Activities](#incident-management-activities)
 
+[Incident Response Frameworks](/CISSP/inc-resp-fw.png)
+
 ## Incident management steps
 
 Here are the incident management steps from each of the frameworks:
