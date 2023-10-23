@@ -1,4 +1,6 @@
-# Table of Contents
+# Networking
+
+## Table of Contents
 
 - [Authentication/Encryption Protocols](#authenticationencryption-protocols)
 - [Routing Protocols](#routing-protocols)
@@ -19,19 +21,23 @@
 
 ## Authentication/Encryption Protocols
 
-**Authentication Header (AH)** - An IPsec protocol that provides authentication and integrity for IP packets. It operates at the network layer (Layer 3).
+**Captive Portals** - Web pages used to authenticate users and authorize access to a wireless network. Operate at application layer (Layer 7). Allow guest access while maintaining control.
 
-**Extensible Authentication Protocol (EAP)** - An authentication framework that supports multiple authentication methods like tokens, smart cards, certificates etc. It operates at the data link layer (Layer 2). 
-
-**Internet Protocol Security (IPSec)** - A protocol suite that provides confidentiality, integrity and authentication for IP packets using encryption. Operates at the network layer (Layer 3).
+**Extensible Authentication Protocol (EAP)** - An authentication framework that supports multiple authentication methods like tokens, smart cards, certificates etc. Operates at the data link layer (Layer 2). 
 
 **Lightweight Extensible Authentication Protocol (LEAP)** - A simplified version of EAP used in wireless networks and Point-to-Point connections. Operates at data link layer (Layer 2).
 
-**Microsoft Challenge-Handshake Authentication Protocol (MS-CHAP)** - An authentication protocol used in Point-to-Point connections and wireless networks. Operates at data link layer (Layer 2). 
+**Over-the-Air (OTA)** - Protocols for wireless transmission of data, configuration settings, and firmware. Operates at physical layer (Layer 1). Convenient but less secure.  
 
 **Protected Extensible Authentication Protocol (PEAP)** - An extension of EAP that provides mutual authentication and key derivation. Operates at data link layer (Layer 2).
 
+**Simultaneous Authentication of Equals (SAE)** - A key establishment protocol for WPA3 authentication. Operates at data link layer (Layer 2). Resists password attacks. 
+
 **Temporal Key Integrity Protocol (TKIP)** - A protocol that provides per-packet key generation for WPA encryption. Operates at data link layer (Layer 2).
+
+**Wi-Fi Protected Access (WPA)** - An encryption and authentication standard used to secure WiFi networks. Operates at data link layer (Layer 2). More secure than WEP.
+
+**WiFi Protected Setup (WPS)** - A standard for easy and secure establishment of a wireless home network. Operates at data link layer (Layer 2). Convenience over security.
 
 [Return to ToC](#table-of-contents)
 
@@ -133,57 +139,57 @@
 
 [Return to ToC](#table-of-contents)
 
-## Network Monitoring and Management 
+## Network Monitoring and Management
 
 **Cisco NetFlow** - A network protocol used to collect IP traffic flow data for monitoring network usage. Operates at network layer (Layer 3). 
 
 **Network Time Protocol (NTP)** - A protocol used to synchronize clocks on computers over packet-switched networks. Operates at application layer (Layer 7).
 
-**Simple Network Management Protocol (SNMP)** - A network management protocol used to monitor network devices from a management system. Operates at application layer (Layer 7). 
+**Simple Network Management Protocol (SNMP)** - A network management protocol used to monitor network devices from a management system. Operates at application layer (Layer 7).
 
-[Return to ToC](#table-of-contents)
+[Return to ToC](#table-of-contents) 
 
 ## Network Security
 
 **Bastion Host** - A system placed on the public perimeter of a private network to serve as the point of contact for external users. Runs at all layers.
 
-**Content Filter** - A program used to analyze network traffic and block restricted content based on rules. Operates at application layer (Layer 7). 
+**Content Filter** - A program used to analyze network traffic and block restricted content based on rules. Operates at application layer (Layer 7).
 
-**Deep Packet Inspection (DPI)** - A form of packet filtering that examines data portions of packets for security and management purposes. Operates at application layer (Layer 7).
+**Deep Packet Inspection (DPI)** - A form of packet filtering that examines data portions of packets for security and management purposes. Operates at application layer (Layer 7). 
 
-**Demilitarized Zone (DMZ)** - A network segment that provides access to public services while protecting the private network. Operates at all layers. 
+**Demilitarized Zone (DMZ)** - A network segment that provides access to public services while protecting the private network. Operates at all layers.
 
-**Encapsulating Security Payload (ESP)** - An IPsec protocol providing encryption and optional authentication at the IP packet level. Operates at network layer (Layer 3).
+**Encapsulating Security Payload (ESP)** - An IPsec protocol providing encryption and optional authentication at the IP packet level. Operates at network layer (Layer 3). 
 
-**Host-based Intrusion Detection System (HIDS)** - Software installed on a host for identifying intrusion attempts based on system and application logs. Operates at higher layers.
+**Host-based Intrusion Detection System (HIDS)** - Software installed on a host for identifying intrusion attempts based on system and application logs. Operates at higher layers. 
 
 **Host-based Intrusion Prevention System (HIPS)** - Software installed on a host for detecting and preventing intrusions in real-time. Operates at higher layers.
 
-**Intrusion Detection System (IDS)** - A network security device for identifying malicious activities through network traffic analysis. Operates at application layer (Layer 7).
+**Intrusion Detection System (IDS)** - A network security device for identifying malicious activities through network traffic analysis. Operates at application layer (Layer 7). 
 
-**Intrusion Prevention System (IPS)** - A network security device for real-time identification and prevention of malicious activities. Operates at application layer (Layer 7). 
+**Intrusion Prevention System (IPS)** - A network security device for real-time identification and prevention of malicious activities. Operates at application layer (Layer 7).
 
-**MAC Filtering** - A security method that uses device MAC addresses to enforce network access control. Operates at data link layer (Layer 2).
+**MAC Filtering** - A security method that uses device MAC addresses to enforce network access control. Operates at data link layer (Layer 2). Simple to implement but easily defeated.
 
-**Network Address Translation (NAT)** - A method of mapping multiple private IP addresses to public IP addresses via a NAT device. Operates at network layer (Layer 3).
+**Network Address Translation (NAT)** - A method of mapping multiple private IP addresses to public IP addresses via a NAT device. Operates at network layer (Layer 3). 
 
-**Network-based Intrusion Prevention System (NIPS)** - A dedicated network appliance that analyzes traffic for threats and takes action to block detected attacks. Operates at application layer (Layer 7). 
+**Network-based Intrusion Prevention System (NIPS)** - A dedicated network appliance that analyzes traffic for threats and takes action to block detected attacks. Operates at application layer (Layer 7).
 
-**Network Intrusion Detection System (NIDS)** - A dedicated network appliance that monitors network traffic and analyzes it for signs of intrusion attempts. Operates at application layer (Layer 7).
+**Network Intrusion Detection System (NIDS)** - A dedicated network appliance that monitors network traffic and analyzes it for signs of intrusion attempts. Operates at application layer (Layer 7). 
 
 **Screened Host** - A host protected from untrusted networks by an intervening screening router. Operates at network layer (Layer 3).
 
-**Screened Subnet** - A subnet protected from external untrusted networks by an intervening screening router. Operates at network layer (Layer 3). 
+**Screened Subnet** - A subnet protected from external untrusted networks by an intervening screening router. Operates at network layer (Layer 3).
 
 [Return to ToC](#table-of-contents)
 
 ## Network Storage
 
-**Fibre Channel over IP (FCIP)** - A storage network technology that encapsulates Fibre Channel traffic over IP networks. Operates at higher layers.
+**Fibre Channel over IP (FCIP)** - A storage network technology that encapsulates Fibre Channel traffic over IP networks. Operates at higher layers. 
 
-**Network Attached Storage (NAS)** - File-level storage servers connected directly to a network. Operates at higher layers. 
+**Network Attached Storage (NAS)** - File-level storage servers connected directly to a network. Operates at higher layers.
 
-**Storage Area Network (SAN)** - A dedicated high-speed network for connecting servers to storage devices. Operates at data link and physical layers (Layers 1-2).
+**Storage Area Network (SAN)** - A dedicated high-speed network for connecting servers to storage devices. Operates at data link and physical layers (Layers 1-2). 
 
 [Return to ToC](#table-of-contents)
 
@@ -191,43 +197,45 @@
 
 **H.323** - A protocol suite providing audio-visual communication over packet-switched networks. Operates at application layer (Layer 7).
 
-**Session Initiation Protocol (SIP)** - A signaling protocol used for initiating sessions in voice and video applications. Operates at application layer (Layer 7). 
+**Session Initiation Protocol (SIP)** - A signaling protocol used for initiating sessions in voice and video applications. Operates at application layer (Layer 7).
 
-**Voice over IP (VoIP)** - Technologies for delivering voice communications over IP networks. Operates at application layer (Layer 7).
+**Voice over IP (VoIP)** - Technologies for delivering voice communications over IP networks. Operates at application layer (Layer 7). 
 
 [Return to ToC](#table-of-contents)
 
 ## Network Devices
 
-**Bridges** - Operate at data link layer (Layer 2) to connect LAN segments. 
+**Bridges** - Operate at data link layer (Layer 2) to connect LAN segments.
 
-**Gateways** - Operate at higher layers to connect dissimilar networks.
+**Gateways** - Operate at higher layers to connect dissimilar networks. 
 
-**Hub** - Operates at physical layer (Layer 1) to connect network segments.
+**Hub** - Operates at physical layer (Layer 1) to connect network segments. 
 
 **LAN Extender** - Operates at physical layer (Layer 1) to extend the reach of a LAN.
 
-**Repeaters** - Operate at physical layer (Layer 1) to regenerate and retransmit signals over long distances. 
+**Repeaters** - Operate at physical layer (Layer 1) to regenerate and retransmit signals over long distances.
 
-**Routers** - Operate at network layer (Layer 3) to route packets between networks.
+**Routers** - Operate at network layer (Layer 3) to route packets between networks. 
 
-**Switches** - Operate at data link layer (Layer 2) to connect devices within a LAN. 
+**Switches** - Operate at data link layer (Layer 2) to connect devices within a LAN.
+
+**Wireless Access Point (WAP)** - A device that allows wireless devices to connect to a wired network. Operates at physical and data link layers (Layers 1-2). Extends wireless coverage.
 
 [Return to ToC](#table-of-contents)
 
 ## Network Attacks
 
-**Bluebugging** - Gaining unauthorized control of a Bluetooth device. Operates at higher layers.
+**Bluebugging** - Gaining unauthorized control of a Bluetooth device. Operates at higher layers. 
 
-**Bluejacking** - Sending unsolicited messages to Bluetooth devices. Operates at higher layers. 
+**Bluejacking** - Sending unsolicited messages to Bluetooth devices. Operates at higher layers.
 
-**Bluesnarfing** - Unauthorized access to information on a Bluetooth device. Operates at higher layers.
+**Bluesnarfing** - Unauthorized access to information on a Bluetooth device. Operates at higher layers. 
 
-**Fraggle Attack** - An attack that overloads a system by sending spoofed UDP packets to broadcasting addresses. Operates at higher layers. 
+**Fraggle Attack** - An attack that overloads a system by sending spoofed UDP packets to broadcasting addresses. Operates at higher layers.
 
-**Land Attack** - Sending a packet with source and destination IP set to victim's IP, crashing the victim system. Operates at network layer (Layer 3).
+**Land Attack** - Sending a packet with source and destination IP set to victim's IP, crashing the victim system. Operates at network layer (Layer 3). 
 
-**Ping of Death** - Sending malformed ping packets that exceed maximum allowed packet size, disrupting target system. Operates at network layer (Layer 3). 
+**Ping of Death** - Sending malformed ping packets that exceed maximum allowed packet size, disrupting target system. Operates at network layer (Layer 3).
 
 **SYN Flood** - Sending a flood of TCP SYN packets to a target, exhausting connection resources and denying legitimate connections. Operates at transport layer (Layer 4).
 
@@ -237,66 +245,84 @@
 
 ## Wireless
 
+**Basic Service Set Identifier (BSSID)** - The MAC address of an access point in a wireless network. Uniquely identifies each BSS.
+
 **Bluetooth** - Wireless standard for short-range communication using short-wavelength radio transmissions. Operates at physical layer (Layer 1). Provides convenience but susceptible to interference.
 
 **Cellular Network** - Wireless network distributed over land areas called cells, each served by a fixed transmitter/receiver. Operates at physical layer (Layer 1). Provides mobility but limited capacity.
 
-**LiFi** - Wireless standard that uses light to transmit data over short distances. Operates at physical layer (Layer 1). Offers security but requires line of sight.
+**Extended Service Set Identifier (ESSID)** - The SSID used by all access points in an extended service set.
+
+**LiFi** - Wireless standard that uses light to transmit data over short distances. Operates at physical layer (Layer 1). Offers security but requires line of sight. 
 
 **Near Field Communication (NFC)** - A wireless standard for close proximity communication using electromagnetic radio fields. Operates at physical layer (Layer 1). Has very short range but provides security.
 
-**WiFi** - Wireless network technology based on the IEEE 802.11 standards. Operates at physical and data link layers (Layers 1-2). Offers flexibility but susceptible to interference.
+**Service Set Identifier (SSID)** - The name that identifies a wireless network. Operates at data link layer (Layer 2). Should not be broadcast for security. 
 
-**Wi-Fi Protected Access (WPA)** - An encryption and authentication standard used to secure WiFi networks. Operates at data link layer (Layer 2). 
+**Site Survey** - Process of measuring signal coverage to determine optimal AP placement. Important for quality and security.
+
+**SSID Broadcast** - Transmission of wireless network name for easy discovery. Convenient but a security risk. Should be disabled.
+
+**Wi-Fi** - Wireless network technology based on the IEEE 802.11 standards. Operates at physical and data link layers (Layers 1-2). Offers flexibility but susceptible to interference.
+
+**Wi-Fi Protected Access (WPA)** - An encryption and authentication standard used to secure WiFi networks. Operates at data link layer (Layer 2). More secure than WEP. 
+
+**Wi-Fi Protected Access 2 (WPA2)** - A wireless security standard using AES encryption. Operates at data link layer (Layer 2). More secure than WPA.
+
+**Wi-Fi Protected Access 3 (WPA3)** - A wireless security standard using SAE for authentication. More resilient to password attacks. Operates at data link layer (Layer 2). 
 
 **WiMAX** - A wireless broadband standard based on IEEE 802.16. Provides network access over long distances. Operates at physical and data link layers (Layers 1-2). Offers range but requires fixed infrastructure.
 
 **Wired Equivalent Privacy (WEP)** - A deprecated wireless security protocol that uses RC4 encryption. Operates at data link layer (Layer 2).
 
-**Wireless Access Point (WAP)** - A device that allows wireless devices to connect to a wired network. Operates at physical and data link layers (Layers 1-2). 
+**Wireless Access Point (WAP)** - A device that allows wireless devices to connect to a wired network. Operates at physical and data link layers (Layers 1-2). Extends wireless coverage.
+
+[Return to ToC](#table-of-contents)
 
 ## Virtual Networks
 
-**Network Function Virtualization (NFV)** - Virtualization of network functions previously carried out by proprietary hardware devices. Operates at multiple layers. 
+**Network Function Virtualization (NFV)** - Virtualization of network functions previously carried out by proprietary hardware devices. Operates at multiple layers.
 
-**Software Defined Network (SDN)** - An approach to computer networking that allows dynamic network configuration using software. Operates at multiple layers.
+**Software Defined Network (SDN)** - An approach to computer networking that allows dynamic network configuration using software. Operates at multiple layers. 
 
-**VLAN (Virtual LAN)** - Logical grouping and isolation of network nodes even if physically connected to the same network. Operates at data link layer (Layer 2). 
+**VLAN (Virtual LAN)** - Logical grouping and isolation of network nodes even if physically connected to the same network. Operates at data link layer (Layer 2).
 
 **VPN (Virtual Private Network)** - Extends a private network across public networks to provide secure remote access. Operates at higher layers.
 
+[Return to ToC](#table-of-contents)
+
 ## Other Common Networking Terms
 
-**Analog** - Data represented in continuous form using waves. Used in legacy telephone systems. 
+**Analog** - Data represented in continuous form using waves. Used in legacy telephone systems.
 
-**Asynchronous** - Transmission without precise clocking between sender and receiver.
+**Asynchronous** - Transmission without precise clocking between sender and receiver. 
 
-**Digital** - Data represented in discrete binary form. Used in modern networks.
+**Broadcast** - Transmission from one sender to all receivers on a subnet. Operates at data link layer (Layer 2).
 
-**Extranet** - A controlled private network that allows access to external parties. 
-
-**Intranet** - A private network accessible only to an organization's staff.
-
-**Polling** - Nodes query each other for data, rather than transmitting spontaneously.
-
-**Synchronous** - Transmission with precise clocking between sender and receiver. 
-
-**Broadcast** - Transmission from one sender to all receivers on a subnet. Operates at data link layer (Layer 2). 
-
-**Multicast** - Transmission from one sender to selected group of receivers. Operates at network layer (Layer 3).
-
-**Unicast** - Transmission from one sender to one receiver.
-
-**Circuit-switched** - Network that establishes a dedicated circuit for each communication session.
-
-**Packet-switched** - Network that breaks data into packets sent independently over shared channels.
-
-**Token Passing** - Method where possession of a token grants the right to transmit over a shared channel. Operates at data link layer (Layer 2).
+**Circuit-switched** - Network that establishes a dedicated circuit for each communication session. 
 
 **Datagram** - Protocol data unit includes the Source IP and the Destination IP(Server) and a TTL value. Associated with UDP.
 
+**Digital** - Data represented in discrete binary form. Used in modern networks.  
+
+**Extranet** - A controlled private network that allows access to external parties.
+
+**Intranet** - A private network accessible only to an organization's staff. 
+
+**Multicast** - Transmission from one sender to selected group of receivers. Operates at network layer (Layer 3). 
+
 **Packet** - Protocol data unit that contains information about the source and destination addresses and other control information needed to transport the packet over a network. Occurs at the network layer (layer 3)
 
-**Segment** - Protocol data unit used in TCP connections. Occurs at the transport layer (layer 4).
+**Packet-switched** - Network that breaks data into packets sent independently over shared channels. 
+
+**Polling** - Nodes query each other for data, rather than transmitting spontaneously.
+
+**Segment** - Protocol data unit used in TCP connections. Occurs at the transport layer (layer 4). 
+
+**Synchronous** - Transmission with precise clocking between sender and receiver.
+
+**Token Passing** - Method where possession of a token grants the right to transmit over a shared channel. Operates at data link layer (Layer 2).
+
+**Unicast** - Transmission from one sender to one receiver.
 
 [Return to ToC](#table-of-contents)
