@@ -5,6 +5,7 @@ Here is the markdown file with an expanded table of contents:
 [Laws and Regulations](#laws-and-regulations)
 
 - [Bank Secrecy Act (BSA)](#bank-secrecy-act-bsa)
+- [Communications Assistance for Law Enforcement Act (CALEA)](communications-assistance-for-law-enforcement-act-calea)
 - [Computer Fraud and Abuse Act (CFAA)](#computer-fraud-and-abuse-act-cfaa)
 - [Children's Online Privacy Protection Act (COPPA)](#childrens-online-privacy-protection-act-coppa)  
 - [Digital Millennium Copyright Act (DMCA)](#digital-millennium-copyright-act-dmca)
@@ -37,10 +38,16 @@ Here is the markdown file with an expanded table of contents:
 
 More detail at [Bank Secrecy Act on Wikipedia](https://en.wikipedia.org/wiki/Bank_Secrecy_Act)
 
+### Communications Assistance for Law Enforcement Act (CALEA)
+
+- Purpose: A United States  wiretapping law to require telecommunications carriers and manufacturers of telecommunications equipment to modify and design their equipment, facilities, and services to ensure that they have built-in capabilities enabling law enforcement agencies to conduct authorized surveillance of all telephone, broadband internet, and VoIP traffic. 
+- Applies to: telephone companies, broadband internet service providers, and interconnected VoIP service providers.
+- Enforced by: U.S. Federal Communications Commission (FCC).
+
 ### Computer Fraud and Abuse Act (CFAA)
 
-- Purpose: Prohibit unauthorized access and damage to computers and networks.
-- Applies to: Anyone accessing computers/networks without authorization or exceeding authorized access.
+- Purpose: Protect children's privacy online, limit collection of data on children under 13.
+- Applies to: Any person who intentionally accesses a computer without authorization or exceeds their authorized access..
 - Enforced by: U.S. Department of Justice.
 
 More detail at [CFAA on Wikipedia](https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act)
