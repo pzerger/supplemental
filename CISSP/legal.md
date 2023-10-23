@@ -35,11 +35,15 @@ Here is the markdown file with an expanded table of contents:
 - Applies to: Financial institutions such as banks, credit unions, casinos, money services businesses.
 - Enforced by: U.S. Department of the Treasury.
 
+More detail at [Bank Secrecy Act on Wikipedia](https://en.wikipedia.org/wiki/Bank_Secrecy_Act)
+
 ### Computer Fraud and Abuse Act (CFAA)
 
 - Purpose: Prohibit unauthorized access and damage to computers and networks.
 - Applies to: Anyone accessing computers/networks without authorization or exceeding authorized access.
 - Enforced by: U.S. Department of Justice.
+
+More detail at [CFAA on Wikipedia](https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act)
 
 ### Children's Online Privacy Protection Act (COPPA) 
 
@@ -47,11 +51,15 @@ Here is the markdown file with an expanded table of contents:
 - Applies to: Websites, apps, online services directed at children under 13 or knowingly collecting data on them.
 - Enforced by: U.S. Federal Trade Commission.
 
+More detail at [COPPA on Wikipedia](https://en.wikipedia.org/wiki/Children's_Online_Privacy_Protection_Act)
+
 ### Digital Millennium Copyright Act (DMCA)
 
 - Purpose: Strengthen copyright protection in the digital age. Prohibits circumvention of digital rights management.
 - Applies to: Copyrighted works in digital format, providers of online services. 
 - Enforced by: U.S. Copyright Office and courts.
+
+More detail at [DMCA on Wikipedia](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
 
 ### Export Administration Regulations (EAR)
 
@@ -59,23 +67,31 @@ Here is the markdown file with an expanded table of contents:
 - Applies to: Exporters of controlled items/information.
 - Enforced by: Bureau of Industry and Security under U.S. Department of Commerce.
 
+More detail at [EAR on Wikipedia](https://en.wikipedia.org/wiki/Export_Administration_Regulations)
+
 ### Electronic Communications Privacy Act (ECPA)
 
 - Purpose: Protect privacy of electronic communications, restrict government surveillance.
 - Applies to: Government/law enforcement seeking access to electronic communications and records.
 - Enforced by: U.S. courts.
 
+More detail at [ECPA on Wikipedia](https://en.wikipedia.org/wiki/Electronic_Communications_Privacy_Act)
+
 ### Federal Information Security Management Act (FISMA)
 
 - Purpose: Require federal agencies to implement information security controls for systems and data.
 - Applies to: U.S. federal government agencies.  
-- Enforced by: Office of Management and Budget, Department of Homeland Security. 
+- Enforced by: Office of Management and Budget, Department of Homeland Security.
+
+More detail at [FISMA on Wikipedia](https://en.wikipedia.org/wiki/Federal_Information_Security_Management_Act_of_2002)
 
 ### Freedom of Information Act (FOIA)
 
 - Purpose: Provide public access to federal agency records and information.
-- Applies to: U.S. federal government agencies. 
+- Applies to: U.S. federal government agencies.
 - Enforced by: Federal agencies, courts.
+
+More detail at [FOIA on Wikipedia](https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States))
 
 ### General Data Protection Regulation (GDPR)
 
@@ -83,17 +99,23 @@ Here is the markdown file with an expanded table of contents:
 - Applies to: Organizations processing/holding personal data of EU citizens.
 - Enforced by: Data protection authorities of EU member states.
 
+More detail at [GDPR on Wikipedia](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
+
 ### Gramm-Leach-Bliley Act (GLBA)
 
 - Purpose: Require financial institutions to protect security and confidentiality of customer information.
 - Applies to: Financial institutions such as banks, insurers, brokers.  
 - Enforced by: Federal regulators like SEC, Federal Trade Commission.
 
+More detail at [GLBA on Wikipedia](https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act)
+
 ### Health Insurance Portability and Accountability Act (HIPAA) 
 
 - Purpose: Protect privacy and security of patient health information. 
 - Applies to: Healthcare providers, health plans, healthcare clearinghouses.
-- Enforced by: U.S. Department of Health and Human Services. 
+- Enforced by: U.S. Department of Health and Human Services.
+
+More detail at [HIPAA on Wikipedia](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act)
 
 ### Health Information Technology for Economic and Clinical Health (HITECH) Act
 
@@ -101,23 +123,31 @@ Here is the markdown file with an expanded table of contents:
 - Applies to: Entities covered by HIPAA regulations.  
 - Enforced by: U.S. Department of Health and Human Services.
 
+More detail at [HIPAA on Wikipedia](https://en.wikipedia.org/wiki/Health_Information_Technology_for_Economic_and_Clinical_Health_Act)
+
 ### International Traffic in Arms Regulations (ITAR)
 
 - Purpose: Control export of defense articles, services, and technical data.
 - Applies to: Manufacturers, exporters, brokers of defense articles/services.  
 - Enforced by: U.S. Department of State.
 
-### Payment Card Industry Data Security Standard (PCI DSS) 
+More detail at [ITAR on Wikipedia](https://en.wikipedia.org/wiki/International_Traffic_in_Arms_Regulations)
+
+### Payment Card Industry Data Security Standard (PCI-DSS) 
 
 - Purpose: Protect cardholder data, ensure secure payments.
 - Applies to: Merchants, processors accepting/processing card payments.
 - Set by: PCI Security Standards Council. Enforced by payment card brands.  
+
+More detail at [PCI-DSS on Wikipedia](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)
 
 ### Sarbanes-Oxley Act (SOX)
 
 - Purpose: Protect investors by increasing accuracy of corporate financial reporting.
 - Applies to: Public companies in the U.S.
 - Enforced by: U.S. Securities and Exchange Commission.
+
+More detail at [SOX on Wikipedia](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
 
 [Back to ToC](#laws-regulations-and-intellectual-property)
 
