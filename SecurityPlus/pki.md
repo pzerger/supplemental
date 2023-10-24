@@ -40,9 +40,9 @@
 
 - **Common Name**: An attribute within a certificate that provides an identifier for the subject of the certificate, often a hostname or organization name.
 
-- **Subject Alternative Name (SAN)**: An optional extension that allows additional hostnames or IPs to be associated with a certificate.
+- **Subject Alternative Name (SAN)**: An optional extension that allows additional hostnames or IPs to be associated with a certificate. Use when you need to support multiple DNS domains and IP addresses from a single certificate.
 
-- **Wildcard Certificate**: A certificate that secures a domain and unlimited number of subdomains, e.g. *.example.com.
+- **Wildcard Certificate**: A certificate that secures a domain and unlimited number of subdomains, e.g. *.example.com. Use when you need to support multiple host names in the same DNS domain from a single certificate.
 
 [Return to ToC](#public-key-infrastructure-pki)
 
