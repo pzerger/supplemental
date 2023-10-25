@@ -111,7 +111,7 @@
 
 ## Other Attack Types
 
-- **Man-In-The-Middle** - Inserts between two communicating hosts to intercept and alter traffic. 
+- **On-Path (Man-In-The-Middle)** - Inserts between two communicating hosts to intercept and alter traffic. 
 - **Remotely Triggered Black Hole** - Causes routers to drop traffic based on source/destination.
 - **Spam over Instant Messaging** - Sends unsolicited instant messages in bulk.  
 - **Time of Check to Time of Use** - Exploits the timing difference between checking access and using access.
