@@ -46,8 +46,9 @@
 - Used for: Isolation between classifications in multilevel systems
 - Characteristics: Ensures actions by users at high security levels do not affect or interfere with lower security levels
 
-## Security Model Properties
+[Return to ToC](#table-of-contents)
 
+## Security Model Properties
 
 The simple property, discretionary property, and star property are key elements that can be used to categorize and understand the goals of different security models:
 
@@ -56,6 +57,8 @@ The simple property, discretionary property, and star property are key elements 
 **Discretionary property** - The discretionary property allows owners of objects to control the access rights to those objects. This supports user privacy and data ownership.
 
 **Star property** - The star property (write) prevents subjects from writing objects at lower security levels, protecting integrity. Models like Biba aim to enforce this property.
+
+[Return to ToC](#table-of-contents)
 
 ## Key Security Models
 
@@ -110,3 +113,5 @@ The simple property, discretionary property, and star property are key elements 
 - Rules: Transfer privileges between subjects/objects  
 - Used in: Specifying access control policies
 - Based on access control triple of subject, object, access rights
+
+[Return to ToC](#table-of-contents)
