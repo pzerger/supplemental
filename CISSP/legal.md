@@ -1,5 +1,3 @@
-Here is the markdown file with an expanded table of contents:
-
 # Laws, Regulations, and Intellectual Property
 
 [Laws and Regulations](#laws-and-regulations)
