@@ -73,6 +73,8 @@ Firewalls serve as a critical security component for protecting networks and sys
   - Often comes with vendor support.
   - Examples include Cisco ASA, Palo Alto Networks Firewall.
 
+  [Back to ToC](#cyber-attacks)
+
 ## Functionality
 
 ### Stateless Firewall
@@ -108,6 +110,8 @@ Firewalls serve as a critical security component for protecting networks and sys
   - Can identify and block specific content, applications, or protocols.
   - Works at the application layer and can understand application protocols.
   - Used for intrusion prevention and application filtering.
+
+  [Back to ToC](#cyber-attacks)
 
 ## Types  
 
@@ -162,3 +166,5 @@ Firewalls serve as a critical security component for protecting networks and sys
 - **Features**:
   - Often used to block access to specific websites or categories.
   - Can be integrated into other firewalls or be standalone.
+
+  [Back to ToC](#cyber-attacks)

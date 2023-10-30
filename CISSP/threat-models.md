@@ -1,4 +1,4 @@
-# Threat Modeling and its Importance in Improving Security
+# Threat Modeling
 
 Threat modeling is a structured process used to identify potential security threats and vulnerabilities in a system or application. By proactively analyzing and understanding the threats, measures can be taken to mitigate or eliminate them, improving the overall security posture.
 
