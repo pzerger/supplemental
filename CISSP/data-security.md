@@ -25,7 +25,7 @@ Description of how data is created, stored, used, and retired.
 
 - **Destruction**: Permanently deleting data when no longer needed. Data should be destroyed as quickly as allowable, as additional data = additional risk.
 
-[Back to ToC])(#table-of-contents)
+[Back to ToC](#table-of-contents)
 
 ## Data Destruction
 
@@ -43,7 +43,7 @@ Methods and practices for securely destroying data to prevent unauthorized acces
 
 - **Purging**: Removing data completely. Leaves no data remnants. Prevents forensic recovery. High security.
 
-[Back to ToC])(#table-of-contents)
+[Back to ToC](#table-of-contents)
 
 ## Data Protection
 
@@ -69,7 +69,7 @@ Strategies and tools used to protect data from corruption, compromise or loss.
 
 - **Tokenization**: Protecting tape backups from theft/damage.
 
-[Back to ToC])(#table-of-contents)
+[Back to ToC](#table-of-contents)
 
 ## Data Roles
 
@@ -101,4 +101,4 @@ The responsibilities and requirements of those who interact with data in various
 
 - **Data User**: Access and uses data appropriately.
 
-[Back to ToC])(#table-of-contents)
+[Back to ToC](#table-of-contents)
