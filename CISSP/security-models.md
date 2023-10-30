@@ -1,8 +1,8 @@
-Here is the content with mention of the access control triple added:
+# Security Models
 
 ## Table of Contents
 
-- [Security Models](#security-models)
+- [Security Model Types](#security-models)
   - [State Machine Model](#state-machine-model)
   - [Information Flow Model](#information-flow-model)
   - [Lattice-based Model](#lattice-based-model)
@@ -16,7 +16,7 @@ Here is the content with mention of the access control triple added:
   - [Graham-Denning Model](#graham-denning-model)
   - [Take-Grant Model](#take-grant-model)
 
-## Security Models
+## Security Model Types
 
 ### State Machine Model
 
