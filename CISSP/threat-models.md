@@ -18,6 +18,8 @@ Threat modeling plays a pivotal role in the SDLC. Conducting it during the desig
 4. **Verification Phase:** Test the system against the identified threats.
 5. **Maintenance Phase:** Continuously monitor and update the threat model as the system evolves.
 
+See also https://en.wikipedia.org/wiki/Systems_development_life_cycle
+
 ## Description of Various Threat Models
 
 ### DREAD (Damage, Reproducibility, Exploitability, Affected Users, and Discoverability)
@@ -54,6 +56,8 @@ Threat modeling plays a pivotal role in the SDLC. Conducting it during the desig
   - **Information Disclosure:** Unauthorized access to information.
   - **Denial of Service:** Disruption of service availability.
   - **Elevation of Privilege:** Unapproved escalation of access rights.
+
+See also https://en.wikipedia.org/wiki/STRIDE_(security)
 
 ### TRIKE (Threat and Risk Identification and Knowledge-based Engineering)
 
