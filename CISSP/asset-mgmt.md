@@ -14,4 +14,6 @@ Asset management pertains to the governance and procedures for managing an organ
 
 - **Ownership**: Determining and documenting the individual or group responsible for an asset. Defined ownership assigns accountability for security.
 
+- **Lifecycle**: The process by which managers purchase, use, monitor, maintain, and replace or dispose of an asset. Includes multiple steps from procurement, use, supervision, and upkeep, to eventual replacement or disposal.
+
 - **Disposition**: The process of disposing of assets, which might include deletion, destruction, transfer, or archival. Controlled disposition prevents unauthorized access to old assets.
