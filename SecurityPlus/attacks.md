@@ -136,7 +136,7 @@ These exploit security gaps resulting from incorrect system or application confi
 
 A catch-all category for attacks that don't fit neatly into the other categories, potentially including novel or hybrid forms of cyber threats.
 
-- **On-path (formerlay Man-In-The-Middle)** - Inserts between two communicating hosts to intercept and alter traffic. Use encryption to secure connections.
+- **On-path (formerly Man-In-The-Middle)** - Inserts between two communicating hosts to intercept and alter traffic. Use encryption to secure connections.
 - **Remotely Triggered Black Hole** - Causes routers to drop traffic based on source/destination. Monitor network traffic flows.
 - **Spam over Instant Messaging** - Sends unsolicited instant messages in bulk. Use spam filters for instant messaging.
 - **Time of Check to Time of Use** - Exploits the timing difference between checking access and using access. Reduce windows between access checks and usage.
