@@ -1,6 +1,6 @@
 # Data Security
 
-## Table of Contents 
+## Table of Contents
 
 - [Data/Information Lifecycle](#datainformation-lifecycle)
 - [Data Destruction](#data-destruction)
@@ -67,7 +67,7 @@ Strategies and tools used to protect data from corruption, compromise or loss.
 
 - **Tape Backup Security**: Protecting tape backups from theft/damage.
 
-- **Tokenization**: Protecting tape backups from theft/damage.
+- **Tokenization**: The process of replacing sensitive data with unique identification symbols or tokens that have no extrinsic or exploitable meaning or value. Provides security benefits for sensitive data like payment cards, social security numbers, customer credentials and healthcare records while still allowing systems to use that data in operations like analytics and machine learning.
 
 [Back to ToC](#table-of-contents)
 
