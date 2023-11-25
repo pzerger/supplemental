@@ -19,8 +19,10 @@ The manipulation of people into performing actions or divulging confidential inf
 - **Consensus** - Creating a sense that everyone else is complying so you should too. *Example: Claiming other users have already clicked the malicious link.*
 - **Scarcity** - Implying an opportunity is rare or urgent to get immediate buy-in. *Example: Limited time offer that requires immediate payment.*
 - **Familiarity** - Building rapport through personal details to develop trust. *Example: Referencing a hobby or interest from social media.*
-- **Trust** - Exploiting existing trust in an organization or third party to bypass scrutiny. *Example: Spoofing trusted business emails to deploy malware.* 
+- **Trust** - Exploiting existing trust in an organization or third party to bypass scrutiny. *Example: Spoofing trusted business emails to deploy malware.*
 - **Urgency** - Adding a sense of urgency to prompt people to act quickly without thinking. *Example: Account will be closed unless action taken ASAP.*
+
+Read more on social engineering in security at https://en.wikipedia.org/wiki/Social_engineering_(security).
 
 [Back to ToC](#table-of-contents)
 
@@ -29,7 +31,9 @@ The manipulation of people into performing actions or divulging confidential inf
 - **Phishing** - Fraudulent emails that appear legitimate to steal personal information.
 - **Spear phishing** - Highly targeted phishing against specific individuals.
 - **Smishing** - Phishing attempts sent through text messages.
-- **Vishing** - Phishing via voice calls or voicemail. 
+- **Vishing** - Phishing via voice calls or voicemail.
+
+Read more on phishing and related variants at https://en.wikipedia.org/wiki/Phishing. 
 
 [Back to ToC](#table-of-contents)
 
