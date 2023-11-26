@@ -3,6 +3,7 @@
 - [Authentication Methods](#authentication-methods)
 - [Authorization Concepts](#authorization-concepts)  
 - [Access Control Models](#access-control-models)
+- [Biometrics](#biometrics)
 - [Identity Management](#identity-management)
 - [Other Security Concepts](#other-security-concepts)
 
@@ -42,6 +43,30 @@
 
 [Back to ToC](#identity-and-access-management-concepts)
 
+## Biometrics
+
+- **facial recognition** - A biometric method that identifies people based on facial features.
+
+- **False Acceptance Rate** - Percentage of invalid inputs incorrectly accepted as valid by a biometric system. Measure of type I errors. 
+
+- **False Rejection Rate** - Percentage of valid inputs incorrectly rejected as invalid by a biometric system. Measure of type II errors.
+
+- **Crossover Error Rate** - Rate at which false acceptances (type 1 errors) equal false rejections (type 2 errors) in a biometric system. Used to measure system accuracy.
+
+- **Fingerprint scanners** - Biometric systems that scan fingerprints for authentication.
+
+- **Iris scanners** - Biometric systems that scan the iris of an eye for authentication.
+
+- **Personally Identifiable Information** - PII is information about individuals that can be used to trace a person's identity, such as a full name, birth date, biometric data, and more.
+
+- **Retina scanners** - Biometric systems that scan the retina of an eye for authentication.
+
+- **Something you are** - In MFA, an authentication factor using biometrics, such as a fingerprint scanner.
+
+- **Voice recognition** - A biometric method that identifies who is speaking using speech recognition methods to identify different acoustic features
+
+[Back to ToC](#identity-and-access-management-concepts)
+
 ## Identity Management
 
 - **Identity Proofing** - Process used to collect and verify information about a person for the purpose of issuing credentials. Ensures proper binding of identity to credentials.
@@ -62,10 +87,3 @@
 
 - **Personal Identity Verification** - United States standard (FIPS 201) for identity credentials like smart cards. Used by government agencies.
 
-- **False Acceptance Rate** - Percentage of invalid inputs incorrectly accepted as valid by a biometric system. Measure of type I errors. 
-
-- **False Rejection Rate** - Percentage of valid inputs incorrectly rejected as invalid by a biometric system. Measure of type II errors.
-
-- **Crossover Error Rate** - Rate at which false acceptances (type 1 errors) equal false rejections (type 2 errors) in a biometric system. Used to measure system accuracy.
-
-[Back to ToC](#identity-and-access-management-concepts)
