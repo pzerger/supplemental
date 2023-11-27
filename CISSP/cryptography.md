@@ -138,6 +138,14 @@ First public key cryptosystem widely adopted based on factoring large primes.
 
 # Symmetric Algorithms
 
+**Advanced Encryption Standard (AES)**   
+Symmetric block cipher, developed by Rijndael and selected by NIST in 2001.
+- Type: Asymmetric algorithm
+- Key Length: 128, 192 and 256 bits.
+- Widespread Use: Yes
+
+  More info at [Advanced Encryption Standard (Wikipedia)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+
 **Data Encryption Standard (DES)**   
 Early symmetric block cipher standardized by NIST but now considered insecure.
 - Type: Legacy symmetric algorithm
