@@ -28,7 +28,7 @@ Examples include:
 - **Standards** - Mandatory requirements that provide specific details to meet the intent of a policy.
 - **Guidelines** - Recommended actions and operational guides to employees to effectively implement procedures.
 
-[Back to ToC](#table-of-contents)
+[Return to ToC](#table-of-contents)
 
 ### Logical/Technical Security Controls
 
@@ -41,7 +41,7 @@ Examples include:
 - **Encryption** - Encoding data to protect confidentiality and integrity.
 - **Access control lists (ACLs)** - Policies that control access to network resources.
 
-[Back to ToC](#table-of-contents)
+[Return to ToC](#table-of-contents)
 
 ### Physical Security Controls
 
@@ -52,7 +52,7 @@ Physical security controls are safeguards to protect facility access, resources,
 - **Security guards** - Personnel used to monitor premises and respond to incidents.
 - **Fences** - Physical barriers around facility perimeter to limit access.
 
-[Back to ToC](#table-of-contents)
+[Return to ToC](#table-of-contents)
 
 ## Types of Security Controls
 
@@ -61,46 +61,46 @@ Physical security controls are safeguards to protect facility access, resources,
 - Provide an alternative safeguard for when a primary control cannot be implemented.
 - **Example:** Allowing remote work when primary office facilities are unavailable.
 
-[Back to ToC](#table-of-contents)
+[Return to ToC](#table-of-contents)
 
 ### Corrective Security Controls
 
 - Used to respond after a security incident has occurred to limit damage.
 - **Example:** Disaster recovery plans initiated after disruption.
 
-[Back to ToC](#table-of-contents)
+[Return to ToC](#table-of-contents)
 
 ### Detective Security Controls 
 
 - Designed to detect and alert when an incident has occurred.  
 - **Example:** Intrusion detection systems monitoring for suspicious network activity.
 
-[Back to ToC](#table-of-contents)
+[Return to ToC](#table-of-contents)
 
 ### Deterrent Security Controls
 
 - Discourage violation of security policies through fear of consequences.
 - **Example:** Signs warning of prosecution for trespassing on premises. 
 
-[Back to ToC](#table-of-contents)
+[Return to ToC](#table-of-contents)
 
 ### Directive Security Controls
 
 - Directly force or prevent certain events from occurring.
 - **Example:** Smartcard or biometrics required to gain system access.
 
-[Back to ToC](#table-of-contents)
+[Return to ToC](#table-of-contents)
 
 ### Preventative Security Controls
 
 - Designed to prevent security incidents from occurring.
 - **Example:** Antivirus software to block malware infections.
 
-[Back to ToC](#table-of-contents)
+[Return to ToC](#table-of-contents)
 
 ### Recovery Security Controls
 
 - Used to restore systems and data after an incident.
 - **Example:** Offsite backups and emergency response plans.
 
-[Back to ToC](#table-of-contents)
+[Return to ToC](#table-of-contents)

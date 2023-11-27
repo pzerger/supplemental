@@ -1,4 +1,6 @@
-Here is the document with a table of contents added:
+# Firewall Concepts and Types
+
+Firewalls serve as a critical security component for protecting networks and systems from unauthorized and potentially malicious access. They work by defining, enforcing, and auditing network communication rules based on various criteria like source and destination IP addresses, ports, protocols, and other packet attributes.
 
 # Table of Contents
 - [Categories](#categories)
@@ -24,10 +26,6 @@ Here is the document with a table of contents added:
   - [Application-Level Firewall](#application-level-firewall)
   - [Circuit-Level Firewall](#circuit-level-firewall)
   - [Content/URL Filter](#contenturl-filter)
-
-# Firewall Concepts and Types
-
-Firewalls serve as a critical security component for protecting networks and systems from unauthorized and potentially malicious access. They work by defining, enforcing, and auditing network communication rules based on various criteria like source and destination IP addresses, ports, protocols, and other packet attributes.
 
 ## Categories
 
@@ -73,6 +71,8 @@ Firewalls serve as a critical security component for protecting networks and sys
   - Often comes with vendor support.
   - Examples include Cisco ASA, Palo Alto Networks Firewall.
 
+  [Back to ToC](#cyber-attacks)
+
 ## Functionality
 
 ### Stateless Firewall
@@ -108,6 +108,8 @@ Firewalls serve as a critical security component for protecting networks and sys
   - Can identify and block specific content, applications, or protocols.
   - Works at the application layer and can understand application protocols.
   - Used for intrusion prevention and application filtering.
+
+  [Back to ToC](#cyber-attacks)
 
 ## Types  
 
@@ -162,3 +164,5 @@ Firewalls serve as a critical security component for protecting networks and sys
 - **Features**:
   - Often used to block access to specific websites or categories.
   - Can be integrated into other firewalls or be standalone.
+
+  [Back to ToC](#cyber-attacks)

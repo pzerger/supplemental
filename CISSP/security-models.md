@@ -1,8 +1,8 @@
-Here is the content with mention of the access control triple added:
+# Security Models
 
 ## Table of Contents
 
-- [Security Models](#security-models)
+- [Security Model Types](#security-models)
   - [State Machine Model](#state-machine-model)
   - [Information Flow Model](#information-flow-model)
   - [Lattice-based Model](#lattice-based-model)
@@ -16,7 +16,7 @@ Here is the content with mention of the access control triple added:
   - [Graham-Denning Model](#graham-denning-model)
   - [Take-Grant Model](#take-grant-model)
 
-## Security Models
+## Security Model Types
 
 ### State Machine Model
 
@@ -46,8 +46,9 @@ Here is the content with mention of the access control triple added:
 - Used for: Isolation between classifications in multilevel systems
 - Characteristics: Ensures actions by users at high security levels do not affect or interfere with lower security levels
 
-## Security Model Properties
+[Back to ToC](#table-of-contents)
 
+## Security Model Properties
 
 The simple property, discretionary property, and star property are key elements that can be used to categorize and understand the goals of different security models:
 
@@ -56,6 +57,8 @@ The simple property, discretionary property, and star property are key elements 
 **Discretionary property** - The discretionary property allows owners of objects to control the access rights to those objects. This supports user privacy and data ownership.
 
 **Star property** - The star property (write) prevents subjects from writing objects at lower security levels, protecting integrity. Models like Biba aim to enforce this property.
+
+[Back to ToC](#table-of-contents)
 
 ## Key Security Models
 
@@ -110,3 +113,5 @@ The simple property, discretionary property, and star property are key elements 
 - Rules: Transfer privileges between subjects/objects  
 - Used in: Specifying access control policies
 - Based on access control triple of subject, object, access rights
+
+[Back to ToC](#table-of-contents)

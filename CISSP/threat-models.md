@@ -1,4 +1,4 @@
-# Threat Modeling and its Importance in Improving Security
+# Threat Modeling
 
 Threat modeling is a structured process used to identify potential security threats and vulnerabilities in a system or application. By proactively analyzing and understanding the threats, measures can be taken to mitigate or eliminate them, improving the overall security posture.
 
@@ -17,6 +17,8 @@ Threat modeling plays a pivotal role in the SDLC. Conducting it during the desig
 3. **Implementation Phase:** Use the identified threats to guide secure coding practices.
 4. **Verification Phase:** Test the system against the identified threats.
 5. **Maintenance Phase:** Continuously monitor and update the threat model as the system evolves.
+
+See also https://en.wikipedia.org/wiki/Systems_development_life_cycle
 
 ## Description of Various Threat Models
 
@@ -54,6 +56,8 @@ Threat modeling plays a pivotal role in the SDLC. Conducting it during the desig
   - **Information Disclosure:** Unauthorized access to information.
   - **Denial of Service:** Disruption of service availability.
   - **Elevation of Privilege:** Unapproved escalation of access rights.
+
+See also https://en.wikipedia.org/wiki/STRIDE_(security)
 
 ### TRIKE (Threat and Risk Identification and Knowledge-based Engineering)
 

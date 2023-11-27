@@ -1,6 +1,15 @@
-Here are descriptions of the data protection topics:
+# Data Security
+
+## Table of Contents
+
+- [Data/Information Lifecycle](#datainformation-lifecycle)
+- [Data Destruction](#data-destruction)
+- [Data Protection](#data-protection)
+- [Data Roles](#data-roles)
 
 ## Data/Information Lifecycle
+
+Description of how data is created, stored, used, and retired.
 
 - **Create/Creation**: The process of generating new data or information.
 
@@ -16,7 +25,11 @@ Here are descriptions of the data protection topics:
 
 - **Destruction**: Permanently deleting data when no longer needed. Data should be destroyed as quickly as allowable, as additional data = additional risk.
 
+[Back to ToC](#table-of-contents)
+
 ## Data Destruction
+
+Methods and practices for securely destroying data to prevent unauthorized access.
 
 - **Clearing (overwriting)**: Overwriting data making it recoverable with forensics. Leaves data remnants. Allows forensic recovery. Low security.
 
@@ -30,7 +43,11 @@ Here are descriptions of the data protection topics:
 
 - **Purging**: Removing data completely. Leaves no data remnants. Prevents forensic recovery. High security.
 
+[Back to ToC](#table-of-contents)
+
 ## Data Protection
+
+Strategies and tools used to protect data from corruption, compromise or loss.
 
 - **Anonymization**: Removing personally identifiable information from data.
 
@@ -50,9 +67,13 @@ Here are descriptions of the data protection topics:
 
 - **Tape Backup Security**: Protecting tape backups from theft/damage.
 
-- **Tokenization**: Protecting tape backups from theft/damage.
+- **Tokenization**: The process of replacing sensitive data with unique identification symbols or tokens that have no extrinsic or exploitable meaning or value. Provides security benefits for sensitive data like payment cards, social security numbers, customer credentials and healthcare records while still allowing systems to use that data in operations like analytics and machine learning.
+
+[Back to ToC](#table-of-contents)
 
 ## Data Roles
+
+The responsibilities and requirements of those who interact with data in various capacities.
 
 - **Asset Owners**: Responsible for an organization's assets.
 
@@ -79,3 +100,5 @@ Here are descriptions of the data protection topics:
 - **Data Transfer (GDPR)**: Moving personal data cross-border.
 
 - **Data User**: Access and uses data appropriately.
+
+[Back to ToC](#table-of-contents)
