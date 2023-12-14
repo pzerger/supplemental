@@ -1,28 +1,33 @@
 
 # Flashcards Quick Reference
 
-[Feature and navigation tips](#feature-and-navigation-tips)
-[Acronyms and abbreviations](#acronyms-and-abbreviations) 
-[Buttons](#buttons)
+On this page, you will find explanations for navigation buttons, icons, images, and acronyms.
+
+- [Feature and navigation tips](#feature-and-navigation-tips)
+- [Acronyms and abbreviations](#acronyms-and-abbreviations) 
+- [Buttons](#buttons)
 
 ## Feature and navigation tips
 
-- **Study Reference**. Page reference to the official study guide (OSG) or related text for deeper review. Because some topics are provided.
+**Study Reference**
+Page reference to the official study guide (OSG) or related text for deeper review. Because some topics are provided.
 
-- **Flag for review**. The ![flag](/global/images/flag.jpg) will add the card to the **Flagged for Review** category, which appears in orange in the upper left of the Categories page for the exam. Once selected, the flag will turn red ![flag](/global/images/flagged.jpg). Click to deselect and remove from the "Flagged for Review" category.
+**Flag for review**
+The ![flag](/global/images/flag.jpg) will add the card to the **Flagged for Review** category, which appears in orange in the upper left of the Categories page for the exam. Once selected, the flag will turn red ![flag](/global/images/flagged.jpg). Click to deselect and remove from the "Flagged for Review" category.
 
 ![categories](/global/images/categories.jpg)
 
-The "Flagged for Review" category on the Categories screen.
+**Figure**. The "Flagged for Review" category on the Categories screen.
 
 ### Buttons
 
 There are several buttons that may appear on the back of flashcards leading to additional resources.
 
-- **Additional Reading**. Links to an authoritative public source of additional 
-- **Exam Tip**. When this button appears, it will reveal specific guidance on exam focus for the topic.
+**Additional Reading**. Links to an authoritative public source of additional 
 
-- **Video**. Links to a video clip on the topic, or larger related topic. NOTE: Sometimes, you will be linked to higher-level topic than appears on the card, so you can learn about the topic in the context of the larger subject.
+**Exam Tip**. When this button appears, it will reveal specific guidance on exam focus for the topic.
+
+**Video**. Links to a video clip on the topic, or larger related topic. NOTE: Sometimes, you will be linked to higher-level topic than appears on the card, so you can learn about the topic in the context of the larger subject.
 
 ## Acronyms and abbreviations
 
