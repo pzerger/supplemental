@@ -9,6 +9,10 @@
 
 - **Study Reference**. Page reference to the official study guide (OSG) or related text for deeper review. Because some topics are provided.
 
+- **Flag for review**. The ![flag](/Supplemental/global/images/flag.jpg) will add the card to the **Flagged for Review** category, which appears in orange in the upper left of the Categories page for the exam.
+
+![categories](/Supplemental/global/images/categories.jpg)
+
 ### Buttons
 
 There are several buttons that may appear on the back of flashcards leading to additional resources.
@@ -16,7 +20,7 @@ There are several buttons that may appear on the back of flashcards leading to a
 - **Additional Reading**. Links to an authoritative public source of additional 
 - **Exam Tip**. When this button appears, it will reveal specific guidance on exam focus for the topic.
 
-- **Video**. Links to a video clip on the topic, or larger related topic. NOTE: Sometimes, you will be linked to higher-level topic than appears on the card, 
+- **Video**. Links to a video clip on the topic, or larger related topic. NOTE: Sometimes, you will be linked to higher-level topic than appears on the card, so you can learn about the topic in the context of the larger subject.
 
 ## Acronyms and abbreviations
 
