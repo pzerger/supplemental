@@ -1,7 +1,7 @@
 
 # Flashcards Quick Reference
 
-To help you get the most from the Exam Flashcards app, included here are explanations for navigation buttons, icons, images, and acronyms.
+To help you get the most from the Exam Flashcards app, included here are explanations for navigation buttons, icons, images, and acronyms. When you have found the information you need, you can return to the Flashcards App on the previous tab in your browser.
 
 - [Feature and navigation tips](#feature-and-navigation-tips)
 - [Acronyms and abbreviations](#acronyms-and-abbreviations) 
