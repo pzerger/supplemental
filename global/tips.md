@@ -9,9 +9,11 @@
 
 - **Study Reference**. Page reference to the official study guide (OSG) or related text for deeper review. Because some topics are provided.
 
-- **Flag for review**. The ![flag](/global/images/flag.jpg) will add the card to the **Flagged for Review** category, which appears in orange in the upper left of the Categories page for the exam.
+- **Flag for review**. The ![flag](/global/images/flag.jpg) will add the card to the **Flagged for Review** category, which appears in orange in the upper left of the Categories page for the exam. Once selected, the flag will turn red ![flag](/global/images/flagged.jpg). Click to deselect and remove from the "Flagged for Review" category.
 
 ![categories](/global/images/categories.jpg)
+
+The "Flagged for Review" category on the Categories screen.
 
 ### Buttons
 
