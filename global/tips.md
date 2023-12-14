@@ -9,9 +9,9 @@
 
 - **Study Reference**. Page reference to the official study guide (OSG) or related text for deeper review. Because some topics are provided.
 
-- **Flag for review**. The ![flag](/supplemental/global/images/flag.jpg) will add the card to the **Flagged for Review** category, which appears in orange in the upper left of the Categories page for the exam.
+- **Flag for review**. The ![flag](/global/images/flag.jpg) will add the card to the **Flagged for Review** category, which appears in orange in the upper left of the Categories page for the exam.
 
-![categories](/supplemental/global/images/categories.jpg)
+![categories](/global/images/categories.jpg)
 
 ### Buttons
 
