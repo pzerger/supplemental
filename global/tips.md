@@ -1,7 +1,7 @@
 
 # Flashcards Quick Reference
 
-On this page, you will find explanations for navigation buttons, icons, images, and acronyms.
+To help you get the most from the Exam Flashcards app, included here are explanations for navigation buttons, icons, images, and acronyms.
 
 - [Feature and navigation tips](#feature-and-navigation-tips)
 - [Acronyms and abbreviations](#acronyms-and-abbreviations) 
@@ -17,7 +17,7 @@ The ![flag](/global/images/flag.jpg) will add the card to the **Flagged for Revi
 
 ![categories](/global/images/categories.jpg)
 
-**Figure**. The "Flagged for Review" category on the Categories screen.
+**Figure 1**. The "Flagged for Review" category on the Categories screen.
 
 ### Buttons
 
