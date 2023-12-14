@@ -142,4 +142,6 @@ A catch-all category for attacks that don't fit neatly into the other categories
 - **Time of Check to Time of Use** - Exploits the timing difference between checking access and using access. Reduce windows between access checks and usage.
 - **Tactics, Techniques, and Procedures** - Methods for exploiting systems and networks. Keep informed on latest attack methods and adjust defenses accordingly.
 
+- **Watering hole attack** - An attack that targets a specific organization, in which malware is installed on a website or websites regularly visited by the organization's members in order to infect computers used within the organization itself.
+
 [Back to ToC](#cyber-attacks)
