@@ -33,5 +33,6 @@ There are several buttons that may appear on the back of flashcards leading to a
 
 The meaning of acronyms related to card features are included here.
 
+- **CBK**. Common Body of Knowledge. A book with deeper technical detail than official study guide, available for some ISC2 exams, such as CISSP and CCSP.
 - **ORG**. Official Review Guide. Will appear under the additional reading heading for some CompTIA exams.
 - **OSG**. Official Study Guide. Will appear under the additional reading heading for most exams.
