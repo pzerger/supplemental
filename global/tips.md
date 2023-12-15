@@ -6,7 +6,7 @@ To help you get the most from the Exam Flashcards app, included here are explana
 - [Feature and navigation tips](#feature-and-navigation-tips)
 - [Acronyms and abbreviations](#acronyms-and-abbreviations) 
 - [Buttons](#buttons)
-- [Study Guides](#buttons)
+- [Study Guides](#study-guides)
 
 ## Feature and navigation tips
 
