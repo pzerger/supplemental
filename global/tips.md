@@ -6,6 +6,7 @@ To help you get the most from the Exam Flashcards app, included here are explana
 - [Feature and navigation tips](#feature-and-navigation-tips)
 - [Acronyms and abbreviations](#acronyms-and-abbreviations) 
 - [Buttons](#buttons)
+- [Study Guides](#buttons)
 
 ## Feature and navigation tips
 
@@ -36,3 +37,11 @@ The meaning of acronyms related to card features are included here.
 - **CBK**. Common Body of Knowledge. A book with deeper technical detail than official study guide, available for some ISC2 exams, such as CISSP and CCSP.
 - **ORG**. Official Review Guide. Will appear under the additional reading heading for some CompTIA exams.
 - **OSG**. Official Study Guide. Will appear under the additional reading heading for most exams.
+
+## Study Guides
+
+Below is the list of study guides references in the **Study Reference** section on flashcards.
+
+- [CISSP Official Study Guide, 9th Edition](https://amzn.to/3qb6z5H)
+- [CCSP Official Study Guide, 3rd Edition](https://amzn.to/3HIntBY)
+- [Security+ SY0-601 Official Study Guide, 6th Edition](https://amzn.to/3BALjcq)
