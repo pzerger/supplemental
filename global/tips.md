@@ -30,6 +30,8 @@ There are several buttons that may appear on the back of flashcards leading to a
 
 **Video**. Links to a video clip on the topic, or larger related topic. NOTE: Sometimes, you will be linked to higher-level topic than appears on the card, so you can learn about the topic in the context of the larger subject.
 
+[Back to top](#flashcards-quick-reference)
+
 ## Acronyms and abbreviations
 
 The meaning of acronyms related to card features are included here.
@@ -38,6 +40,8 @@ The meaning of acronyms related to card features are included here.
 - **ORG**. Official Review Guide. Will appear under the additional reading heading for some CompTIA exams.
 - **OSG**. Official Study Guide. Will appear under the additional reading heading for most exams.
 
+[Back to top](#flashcards-quick-reference)
+
 ## Study Guides
 
 Below is the list of study guides references in the **Study Reference** section on flashcards.
@@ -45,3 +49,5 @@ Below is the list of study guides references in the **Study Reference** section 
 - [CISSP Official Study Guide, 9th Edition](https://amzn.to/3qb6z5H)
 - [CCSP Official Study Guide, 3rd Edition](https://amzn.to/3HIntBY)
 - [Security+ SY0-601 Official Study Guide, 6th Edition](https://amzn.to/3BALjcq)
+
+[Back to top](#flashcards-quick-reference)
