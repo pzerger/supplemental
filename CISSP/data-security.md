@@ -87,10 +87,6 @@ The responsibilities and requirements of those who interact with data in various
 
 - **Data custodian**: Protects and uses data according to policy.
 
-- **Data destruction**: Permanently deleting data when no longer needed.
-
-- **Data handling**: Using and protecting data appropriately.
-
 - **Data owner/controller (GDPR)**: Determines purposes and means of processing data.
 
 - **Data Processor (GDPR)**: Processes personal data on controller's behalf.
