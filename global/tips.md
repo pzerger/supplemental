@@ -41,6 +41,7 @@ The meaning of acronyms related to card features are included here.
 - **CBK**. Common Body of Knowledge. A book with deeper technical detail than official study guide, available for some ISC2 exams, such as CISSP and CCSP. Will appear under the **Study Reference** heading for some ISC2 exams.
 - **ORG**. Official Review Guide. Will appear under the **Study Reference** heading for some CompTIA exams.
 - **OSG**. Official Study Guide. Will appear under the **Study Reference** heading for most exams.
+- **PMBOK**. Product Management Body Of Knowledge. Will appear under the **Study Reference** heading for the PMP exam.
 
 [Back to top](#flashcards-quick-reference)
 
