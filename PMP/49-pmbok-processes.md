@@ -34,9 +34,9 @@ Each knowledge represents a complete area of specialization including jargon, to
 
 Knowledge Areas are made up of processes, which are detailed below.
 
-![49 PMBOK processes](/PMP/images/49-pmbok-processes.png)
-
 ## 49 Project Management Processes
+
+![49 PMBOK processes](/PMP/images/49-pmbok-processes.png)
 
 ### Integration Management
 
