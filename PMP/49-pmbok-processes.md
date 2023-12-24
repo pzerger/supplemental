@@ -36,7 +36,9 @@ Knowledge Areas are made up of processes, which are detailed below.
 
 ![49 PMBOK processes](\images\49-pmbok-processes.png)
 
-## Integration Management
+## 49 Project Management Processes
+
+### Integration Management
 
 The coordination between the resources, stakeholders, and other project elements which ensures to execute the project end to end successfully is Project Integration Management. It is very important because project success highly depends on integration management in terms of schedule, cost, quality, scope, risks, etc.
 
@@ -71,7 +73,7 @@ This process refers to closing the project activities by finalizing all the deli
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
-## Scope Management
+### Scope Management
 
 Project scope management is to define what is included in the project and what is not included in the project. The scope of the project is the work that is involved and the factors to execute the project successfully. There are 6  project scope management processes in planning and controlling process group.
 
@@ -97,7 +99,7 @@ The control scope process ensures whether all the project activities are accordi
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
-## Schedule Management
+### Schedule Management
 
 Project schedule management involves the listing of the tasks, deliverables, duration, stakeholder assigned, start and end date of the tasks within the project. Time management completely depends on the proper schedule management.
 
@@ -120,7 +122,7 @@ The process of monitoring and managing the time taken to complete the project ac
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
-## Cost Management
+### Cost Management
 
 Cost is the most critical factor in any organization. The process of estimating, allocating and controlling the cost of the whole project comes in project cost management. The budget is fixed according to the project activities. The costs are estimated during the planning phase and controlled if it exceeds during execution.
 
@@ -138,7 +140,7 @@ The process of monitoring and controlling the cost of individual project activit
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
-## Quality Management
+### Quality Management
 
 The process of achieving assured quality with respect to scope, time and cost is project quality management. With proper quality management, an organization can achieve customer satisfaction and enhance further productivity. The process of quality management is in three phases of project management: Planning, execution, and monitoring and controlling.
 
@@ -153,7 +155,7 @@ Control Quality process is the process of monitoring and controlling the execute
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
-## Resource Management
+### Resource Management
 
 The project resource management involves managing human resource, material, equipment, knowledge and time. Recourse plays a very important role during the execution of the project. There are 6 Project resource management processes in three phases of project management.
 
@@ -177,7 +179,7 @@ The Control Resources process aims to fulfil all the resource requirement for th
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
-## Communications Management
+### Communications Management
 
 The project communications management ensures that the right message is sent, received and understood by the right people. Communication is one of the most critical factors affecting the success of the project. According to PMI, most of the project failed due to communication. The three processes are involved in project communication management in planning, executing and monitoring phase.
 
@@ -192,7 +194,7 @@ Monitoring communications process is a process of monitoring and controlling the
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
-## Risk Management
+### Risk Management
 
 Project risk management involves identifying the risks, analyze the risk and control the risk. The risk management is done to reduce the impact of risk on project pace. The risk identified can be uncertain and have a huge impact on the resource, processes, technology, and schedule. The 7 processes of risk management lies in planning, executing and monitoring phase.
 
@@ -219,7 +221,7 @@ The process involves monitoring the implemented action plans against risk identi
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
-## Procurement Management
+### Procurement Management
 
 The project procurement management involves obtaining goods, services and supplies. Procurement includes all the materials required to complete the project. 3 procurement management processes are involved in planning, executing and monitoring phase of project management.
 
@@ -234,7 +236,7 @@ The control procurement process involves managing all the procurement relationsh
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
-## Stakeholder Management
+### Stakeholder Management
 
 The project stakeholder management is the process of identifying suitable stakeholder for the project and meet the expectation of the selected stakeholder. The success or failure of the project depends on the key stakeholders.
 
