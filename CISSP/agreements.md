@@ -28,7 +28,7 @@ MOUs help facilitate communication, coordination, resource sharing, and executio
 
 MOUs are commonly used for public-private partnerships, research collaborations, sharing resources or personnel, joint policy initiatives, and other relationships with flexible or evolving objectives.
 
-More detail at [MOU on Wikipedia]](https://en.wikipedia.org/wiki/Memorandum_of_understanding)
+More detail at [MOU on Wikipedia](https://en.wikipedia.org/wiki/Memorandum_of_understanding)
 
 ## Mutual assistance agreement (MAA)
 
@@ -44,7 +44,7 @@ NDAs prohibit disclosure of specified proprietary, sensitive, or confidential da
 
 NDAs are commonly a prerequisite in business negotiations, vendor contracts, private partnerships, security assessments, mergers and acquisitions, employment agreements, and other sharing of non-public information between organizations.
 
-More detail at [NDA on Wikipedia]](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
+More detail at [NDA on Wikipedia](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 
 ## Operational Level Agreement (OLA)
 
@@ -52,7 +52,7 @@ An **Operational Level Agreement (OLA)** defines the working relationship betwee
 
 OLAs help align information technology infrastructure and support teams to the business needs of individual departments, projects, or products they enable within an organization. They are commonly used for clarifying expectations around internal support services like network operations, help desk, or application management.
 
-More detail at [OLA on Wikipedia]](https://en.wikipedia.org/wiki/Operational_Level_Agreement)
+More detail at [OLA on Wikipedia](https://en.wikipedia.org/wiki/Operational_Level_Agreement)
 
 ## Service Level Agreement (SLA)
 
@@ -60,4 +60,4 @@ A **Service Level Agreement (SLA)** is a contract between a service provider, ei
 
 SLAs allow both parties to agree on service expectations for critical business functions like uptime percentages, response times, security policies, or support response commitments essential to customers and end users. They are vital for managing outsourced IT services, cloud migrations, and vendor management.
 
-More detail at [SLA on Wikipedia]](https://en.wikipedia.org/wiki/Service-level_agreement)
+More detail at [SLA on Wikipedia](https://en.wikipedia.org/wiki/Service-level_agreement)
