@@ -1,9 +1,9 @@
  # Table of Contents
 
 - [Enterprise License Agreement (ELA)](#enterprise-license-agreement-ela)
-- [Mutual assistance agreement (MAA)](#mutual-assistance-agreement-maa)  
 - [Memorandum Of Agreement (MOA)](#memorandum-of-agreement-moa)
 - [Memorandum Of Understanding (MOU)](#memorandum-of-understanding-mou)
+- [Mutual assistance agreement (MAA)](#mutual-assistance-agreement-maa)  
 - [Non-Disclosure Agreement (NDA)](#non-disclosure-agreement-nda)  
 - [Operational Level Agreement (OLA)](#operational-level-agreement-ola)
 - [Service Level Agreement (SLA)](#service-level-agreement-sla)
@@ -13,12 +13,6 @@
 An **Enterprise License Agreement (ELA)** is a contract between a software vendor and an enterprise customer that allows the customer to license software or services on a large scale across the entire organization. ELAs provide volume discounts in exchange for a commitment to use that vendor's products exclusively or at a minimum percentage for a set period of time, typically 3-5 years.
 
 ELAs are commonly used by large organizations to simplify license management, budgeting, and negotiations with major software vendors.
-
-## Mutual assistance agreement (MAA)
-
-A **mutual assistance agreement (MAA)** is an agreement between two or more organizations, often in the same industry or region, to provide assistance to each other in the event of an emergency or business disruption. This may include sharing physical resources, technical skills and support, cybersecurity assistance, or other capabilities needed to continue critical business functions.
-
-MAAs help improve resilience and incident response, so they are commonly used for business continuity planning and organizational security. Industries like energy, finance, and healthcare frequently use MAAs to agree on aid in scenarios like power outages, cyber attacks, or other crises that could impact operations.
 
 ## Memorandum Of Agreement (MOA) 
 
@@ -35,6 +29,12 @@ MOUs help facilitate communication, coordination, resource sharing, and executio
 MOUs are commonly used for public-private partnerships, research collaborations, sharing resources or personnel, joint policy initiatives, and other relationships with flexible or evolving objectives.
 
 More detail at [MOU on Wikipedia]](https://en.wikipedia.org/wiki/Memorandum_of_understanding)
+
+## Mutual assistance agreement (MAA)
+
+A **mutual assistance agreement (MAA)** is an agreement between two or more organizations, often in the same industry or region, to provide assistance to each other in the event of an emergency or business disruption. This may include sharing physical resources, technical skills and support, cybersecurity assistance, or other capabilities needed to continue critical business functions.
+
+MAAs help improve resilience and incident response, so they are commonly used for business continuity planning and organizational security. Industries like energy, finance, and healthcare frequently use MAAs to agree on aid in scenarios like power outages, cyber attacks, or other crises that could impact operations.
 
 ## Non-Disclosure Agreement (NDA) 
 
