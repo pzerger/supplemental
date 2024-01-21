@@ -20,6 +20,8 @@ A **Memorandum of Agreement (MOA)** is a written document outlining the terms an
 
 While an MOA indicates an intended common purpose or shared vision between parties, the specifics are usually not legally binding like a contract. MOAs help coordinate efforts and streamline communication about reciprocal commitments between organizations working towards similar goals.
 
+**NOTE:** An MOA is an enforceable legal contract, whereas an MOU is not.
+
 ## Memorandum Of Understanding (MOU)
 
 A **Memorandum of Understanding (MOU)** is a written agreement outlining the terms and details between multiple parties to cooperatively work together towards common goals and objectives. 
