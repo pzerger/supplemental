@@ -1,4 +1,4 @@
- # Table of Contents
+ # Agreements and Contracts
 
 - [Enterprise License Agreement (ELA)](#enterprise-license-agreement-ela)
 - [Memorandum Of Agreement (MOA)](#memorandum-of-agreement-moa)

@@ -1,5 +1,3 @@
-Here is the asset management topic overview with explanations of the cybersecurity benefits:
-
 # Asset Management 
 
 Asset management pertains to the governance and procedures for managing an organization's assets, including information assets.
