@@ -7,6 +7,7 @@
 - [Testing](#testing)
 - [Types of Sites](#types-of-sites)
 - [Teams](#teams)
+- [HA vs DR](#ha-vs-dr)
 
 ### Goals of BCDR
 The primary goals of BCDR include:
