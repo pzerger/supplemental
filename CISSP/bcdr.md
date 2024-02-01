@@ -77,6 +77,8 @@ Tests and exercises for validating business continuity and disaster recovery pla
 [Back to ToC](#business-continuity-and-disaster-recovery)
 
 ### HA vs DR
-**High availability** refers to ensuring systems and applications have minimal downtime and are accessible to users. It focuses on maintaining operations through predictable failures like hardware crashes or minor software bugs. Methods for high availability include redundancy, failover clustering, and load balancing. High availability is often the first line of defense, but disaster recovery deals with worst-case scenarios when high availability measures are overwhelmed. They work together to deliver both day-to-day accessibility and the ability to recover from a catastrophe.
+**High availability** refers to ensuring systems and applications have minimal downtime and are accessible to users. It focuses on maintaining operations through predictable failures like hardware crashes or minor software bugs. Methods for high availability include redundancy, failover clustering, and load balancing. 
+
+High availability is often the first line of defense, but disaster recovery deals with worst-case scenarios when high availability measures are overwhelmed. They work together to deliver both day-to-day accessibility and the ability to recover from a catastrophe.
 
 [Back to ToC](#business-continuity-and-disaster-recovery)
