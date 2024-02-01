@@ -7,6 +7,7 @@
   - [Information Flow Model](#information-flow-model)
   - [Lattice-based Model](#lattice-based-model)
   - [Non-Interference Model](#non-interference-model) 
+- [Models Grouped by Focus](#models-grouped-by-focus)
 - [Security Model Properties](#security-model-properties)
 - [Key Security Models](#key-security-models)
   - [Bell-LaPadula Model](#bell-lapadula-model)
@@ -39,12 +40,35 @@
 - Used for: Multilevel security policies with hierarchical security levels
 - Characteristics: Defines partially ordered set of security levels with least upper bound and greatest lower bound operations
 
-### Non-Interference Model 
+### Non-Interference Model
 
 - Type: Formal model
 - Protects: Confidentiality
 - Used for: Isolation between classifications in multilevel systems
 - Characteristics: Ensures actions by users at high security levels do not affect or interfere with lower security levels
+
+[Back to ToC](#table-of-contents)
+
+## Models Grouped by Focus
+
+Here is a grouping of security models based on whether they focus primarily on protecting confidentiality or integrity:
+
+**Confidentiality Focus**
+
+- Bell-LaPadula Model
+- Brewer and Nash Model (Chinese Wall)  
+- Graham-Denning Model
+- Information Flow Model
+- Take-Grant Model
+
+**Integrity Focus**
+
+- Biba Model
+- Clark-Wilson Model
+
+**Mixed Confidentiality and Integrity**
+
+- State Machine Model
 
 [Back to ToC](#table-of-contents)
 
