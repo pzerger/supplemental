@@ -16,7 +16,8 @@ Threat modeling is a structured process used to identify potential security thre
 
 
 
-**Benefits of Threat Modeling:**
+## Benefits of Threat Modeling:
+
 1. **Proactive Security:** Identify and address threats early in the design phase.
 2. **Risk Management:** Helps in prioritizing threats based on their impact and likelihood.
 3. **Informed Decisions:** Provides a clear view to stakeholders on security risks.
