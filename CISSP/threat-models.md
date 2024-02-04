@@ -12,7 +12,7 @@ Threat modeling is a structured process used to identify potential security thre
   - [PASTA (Process for Attack Simulation and Threat Analysis)](#pasta-process-for-attack-simulation-and-threat-analysis)
   - [STRIDE (Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege)](#stride-spoofing-tampering-repudiation-information-disclosure-denial-of-service-elevation-of-privilege)
   - [TRIKE (Threat and Risk Identification and Knowledge-based Engineering)](#trike-threat-and-risk-identification-and-knowledge-based-engineering)
-  - [VAST (Visual, Agile, and Simple Threat)](#vast-visual-agile-and-simple-threat
+  - [VAST (Visual, Agile, and Simple Threat)](#vast-visual-agile-and-simple-threat)
 
 **Benefits of Threat Modeling:**
 1. **Proactive Security:** Identify and address threats early in the design phase.
