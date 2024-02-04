@@ -14,6 +14,8 @@ Threat modeling is a structured process used to identify potential security thre
   - [TRIKE (Threat and Risk Identification and Knowledge-based Engineering)](#trike-threat-and-risk-identification-and-knowledge-based-engineering)
   - [VAST (Visual, Agile, and Simple Threat)](#vast-visual-agile-and-simple-threat)
 
+
+
 **Benefits of Threat Modeling:**
 1. **Proactive Security:** Identify and address threats early in the design phase.
 2. **Risk Management:** Helps in prioritizing threats based on their impact and likelihood.
@@ -77,9 +79,9 @@ See also https://en.wikipedia.org/wiki/Systems_development_life_cycle
   - **Denial of Service:** Disruption of service availability.
   - **Elevation of Privilege:** Unapproved escalation of access rights.
 
-[Back to ToC](#table-of-contents)
-
 See also https://en.wikipedia.org/wiki/STRIDE_(security)
+
+[Back to ToC](#table-of-contents)
 
 ### TRIKE (Threat and Risk Identification and Knowledge-based Engineering)
 
