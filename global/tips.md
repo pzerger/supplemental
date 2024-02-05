@@ -66,7 +66,11 @@ Exam Flashcards is a secure, progressive web application you can install on any 
 
 You can install the app on any desktop with any popular web browser in a single click!
 
+Here is what the install looks like in Chrome.
+
 ![Chrome on desktop](/global/images/install-chrome.png)
+
+And the same process in the Edge browser.
 
 ![Edge on desktop](/global/images/install-edge.png)
 
