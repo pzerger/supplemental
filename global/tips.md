@@ -64,16 +64,22 @@ Exam Flashcards is a secure, progressive web application you can install on any 
 
 **On any desktop (Windos, macOS, Linux), any browser:**
 
+You can install the app on any desktop with any popular web browser in a single click!
+
 ![Chrome on desktop](/global/images/install-chrome.png)
 
 ![Edge on desktop](/global/images/install-edge.png)
 
 **On any smartphone, any browser:**
 
+You can pin the mobile app to your home screen on your smartphone from the sharing menu.
+
 ![Edge on desktop](/global/images/install-mobile.png)
 
 **On any tablet, any browser:**
 
-![Edge on desktop](/global/images/install-tablet.png)
+You can pin the mobile app to your home screen on your tablet from the sharing menu.
+
+![Edge on desktop](/global/images/install-tablet.jpeg)
 
 [Back to top](#flashcards-quick-reference)
