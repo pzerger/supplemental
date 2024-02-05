@@ -60,7 +60,7 @@ Below is the list of study guides references in the **Study Reference** section 
 
 ## Install the Flashcard App (1-click install)
 
-Exam Flashcards is a secure, progressive web application you can install on any desktop, laptop, tablet or smartphone with a single click. Instructions for all are shown below.
+Exam Flashcards is a secure, progressive web application you can install on any desktop, laptop, tablet, or smartphone with a single click. Instructions for all platforms are shown below.
 
 **On any desktop (Windos, macOS, Linux), any browser:**
 
