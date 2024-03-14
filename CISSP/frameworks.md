@@ -38,7 +38,7 @@ Security control frameworks provide a prescriptive set of cybersecurity safeguar
 
 ### CIS Controls:
 
-**Purpose**: A prioritized set of cybersecurity best practices and actions developed to safeguard against common cyberattacks.
+**Purpose**: A prioritized set of cybersecurity best practices and actions developed to safeguard against common cyberattacks. 
 
 **Oversight/Enforcement**: Developed and maintained by the Center for Internet Security (CIS), a non-profit organization. No central enforcement, but CIS Controls are widely referenced as industry benchmarks.
 
@@ -46,7 +46,7 @@ Security control frameworks provide a prescriptive set of cybersecurity safeguar
 
 ### COBIT (Control Objectives for Information and Related Technologies):
 
-**Purpose**: A framework developed by ISACA for IT governance and management. COBIT includes a security focus, providing guidance on aligning security objectives with business goals.
+**Purpose**: A framework developed by ISACA for IT governance and management. COBIT includes a security focus, providing guidance on aligning security objectives with business goals. Although COBIT includes risk management as one of its domains, it is not a dedicated risk framework like ISO 31000 or COSO ERM. Instead, COBIT's risk management domain focuses on integrating risk management practices into the overall IT governance and control processes.
 
 **Oversight/Enforcement**: ISACA develops and maintains COBIT. It's a framework for best practices, not typically directly enforced.
 
@@ -86,7 +86,7 @@ Security control frameworks provide a prescriptive set of cybersecurity safeguar
 
 ### ISO/IEC 27001/27002
 
-**Purpose**: International standards for Information Security Management Systems (ISMS). ISO 27001 outlines the requirements for establishing an ISMS, while ISO 27002 provides best practice security controls that an organization can choose to implement.
+**Purpose**: International standards for Information Security Management Systems (ISMS). ISO 27001 outlines the requirements for establishing an ISMS, while ISO 27002 provides best practice security controls that an organization can choose to implement. While risk assessment and treatment are essential components of the ISO 27001 standard, the primary focus of the framework is to define a set of security controls and management processes for protecting information assets. 
 
 **Oversight/Enforcement**: Developed and maintained by ISO and the International Electrotechnical Commission (IEC). Organizations can seek ISO 27001 certification, involving audits by third-party certification bodies.
 
