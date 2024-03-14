@@ -6,6 +6,10 @@ To help you get the most from the Exam Flashcards app, included here are explana
 - [Feature and navigation tips](#feature-and-navigation-tips)
 - [Acronyms and abbreviations](#acronyms-and-abbreviations) 
 - [Buttons](#buttons)
+    - [Additional Reading](#buttons)
+    - [Exam Tip](#buttons)
+    - [Video](#buttons)
+- [Notifications](#notifications) 
 - [Study Guides](#study-guides)
 - [Install the Flashcard App (1-click install)](#install-the-flashcard-app-1-click-install)
 
@@ -47,6 +51,16 @@ The meaning of acronyms related to card features are included here.
 - **PMBOK**. Project Management Body Of Knowledge. Will appear under the **Study Reference** heading for the PMP exam.
 
 [Back to top](#flashcards-quick-reference)
+
+## Notifications 
+
+Anytime we release a new feature or a new set of exam flashcards, we will announce this in-app, through the Notifications area, represented by the bell icon on the toolbar in the upper right corner of the app. 
+
+Whenever you see a red badge with a number on the bell, there is a new, unread notification waiting for you.
+
+![categories](/global/images/notifications.jpg)
+
+**Figure 1**. The "notification bell" icon on the Categories screen.
 
 ## Study Guides
 
