@@ -2,7 +2,22 @@
 
 Threat modeling is a structured process used to identify potential security threats and vulnerabilities in a system or application. By proactively analyzing and understanding the threats, measures can be taken to mitigate or eliminate them, improving the overall security posture.
 
-**Benefits of Threat Modeling:**
+## Table of Contents
+
+- [Benefits of Threat Modeling](#benefits-of-threat-modeling)
+- [Role of Threat Modeling in the Systems Development Lifecycle (SDLC)](#role-of-threat-modeling-in-the-systems-development-lifecycle-sdlc)
+- [Description of Various Threat Models](#description-of-various-threat-models)
+  - [DREAD (Damage, Reproducibility, Exploitability, Affected Users, and Discoverability)](#dread-damage-reproducibility-exploitability-affected-users-and-discoverability)
+  - [OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation)](#octave-operationally-critical-threat-asset-and-vulnerability-evaluation)
+  - [PASTA (Process for Attack Simulation and Threat Analysis)](#pasta-process-for-attack-simulation-and-threat-analysis)
+  - [STRIDE (Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege)](#stride-spoofing-tampering-repudiation-information-disclosure-denial-of-service-elevation-of-privilege)
+  - [TRIKE (Threat and Risk Identification and Knowledge-based Engineering)](#trike-threat-and-risk-identification-and-knowledge-based-engineering)
+  - [VAST (Visual, Agile, and Simple Threat)](#vast-visual-agile-and-simple-threat)
+
+
+
+## Benefits of Threat Modeling:
+
 1. **Proactive Security:** Identify and address threats early in the design phase.
 2. **Risk Management:** Helps in prioritizing threats based on their impact and likelihood.
 3. **Informed Decisions:** Provides a clear view to stakeholders on security risks.
@@ -20,6 +35,8 @@ Threat modeling plays a pivotal role in the SDLC. Conducting it during the desig
 
 See also https://en.wikipedia.org/wiki/Systems_development_life_cycle
 
+[Back to ToC](#table-of-contents)
+
 ## Description of Various Threat Models
 
 ### DREAD (Damage, Reproducibility, Exploitability, Affected Users, and Discoverability)
@@ -33,17 +50,23 @@ See also https://en.wikipedia.org/wiki/Systems_development_life_cycle
   - **Affected Users:** Number of users impacted.
   - **Discoverability:** How easily the threat can be discovered.
 
+[Back to ToC](#table-of-contents)
+
 ### OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation)
 
 - **Focus:** Organization-wide risk assessment.
 - **Usage:** Suitable for large organizations seeking to evaluate risks across different assets and operations.
 - **Details:** Considers organizational structure, technology, and processes to identify critical assets, threats to those assets, and vulnerabilities.
 
+[Back to ToC](#table-of-contents)
+
 ### PASTA (Process for Attack Simulation and Threat Analysis)
 
 - **Focus:** Attack simulation and threat analysis.
 - **Usage:** System and application threat modeling to understand potential attack vectors and scenarios.
 - **Details:** A seven-step process that starts with defining objectives and ends with vulnerability analysis and threat validation.
+
+[Back to ToC](#table-of-contents)
 
 ### STRIDE (Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privilege)
 
@@ -59,14 +82,20 @@ See also https://en.wikipedia.org/wiki/Systems_development_life_cycle
 
 See also https://en.wikipedia.org/wiki/STRIDE_(security)
 
+[Back to ToC](#table-of-contents)
+
 ### TRIKE (Threat and Risk Identification and Knowledge-based Engineering)
 
 - **Focus:** Risk-based approach to security requirements.
 - **Usage:** Helps in specifying security properties and understanding potential risks.
 - **Details:** A methodology that uses a risk model to determine the requirements and ensure the system meets those requirements.
 
+[Back to ToC](#table-of-contents)
+
 ### VAST (Visual, Agile, and Simple Threat)
 
 - **Focus:** Streamlining and simplifying the threat modeling process.
 - **Usage:** Agile development environments where rapid iterations are required.
 - **Details:** Emphasizes on visual representation, agility in addressing threats, and simplifying the modeling process for quicker turnarounds.
+
+[Back to ToC](#table-of-contents)

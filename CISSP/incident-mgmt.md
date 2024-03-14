@@ -2,7 +2,7 @@
 
 It is worth noting that the CISSP incident response model is unique. It is not the model from NIST, nor from SANS. Therefore, we gain our insights from the CISSP official common body of knowledge (CBK) and study guide (OSG), which are good, though not as detailed and lengthy as the NIST and SANS frameworks. We can also learn more about the incident management and response process by drawing parallels to NIST and SANS, two widely used frameworks for incident management and response.
 
-In these notes, you will find:
+## Table of Contents
 
 - [Incident management steps](#incident-management-steps)
 - [Terminology](#terminology)
@@ -209,3 +209,6 @@ Here are the steps and key activities for each incident response framework:
 5. Recovery - Returning affected systems back to normal operations. 
 
 6. Lessons Learned - Documenting the incident and identifying improvements.
+
+
+[Table of Contents](#table-of-contents)
