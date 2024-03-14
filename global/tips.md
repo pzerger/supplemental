@@ -62,6 +62,8 @@ Whenever you see a red badge with a number on the bell, there is a new, unread n
 
 **Figure 1**. The "notification bell" icon on the Categories screen.
 
+[Back to top](#flashcards-quick-reference)
+
 ## Study Guides
 
 Below is the list of study guides references in the **Study Reference** section on flashcards.
