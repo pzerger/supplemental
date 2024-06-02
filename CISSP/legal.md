@@ -44,8 +44,8 @@ More detail at [Bank Secrecy Act on Wikipedia](https://en.wikipedia.org/wiki/Ban
 
 ### Computer Fraud and Abuse Act (CFAA)
 
-- Purpose: Protect children's privacy online, limit collection of data on children under 13.
-- Applies to: Any person who intentionally accesses a computer without authorization or exceeds their authorized access..
+- Purpose:  A U.S. law that aims to deter and punish unauthorized access to computer systems and online fraud.
+- Applies to: Any person who intentionally accesses a computer without authorization or exceeds their authorized access.
 - Enforced by: U.S. Department of Justice.
 
 More detail at [CFAA on Wikipedia](https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act)
