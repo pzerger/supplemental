@@ -32,8 +32,10 @@ These aim to gain unauthorized access to systems or data, typically by bypassing
 
 - **Brute force** - Repeatedly try different passwords or passphrases to gain unauthorized access. Implement account lockouts after failed login attempts. 
 - **Dictionary attacks** - Uses a prepared list of likely passwords to attempt to gain unauthorized access. Enforce strong password policies.
-- **Password Crackers** - Software tools used to discover passwords by brute force or dictionary attacks. Utilize multi-factor authentication.
 - **Meet-in-the-middle attack** - Attempts to obtain login credentials by capturing encrypted network traffic and comparing with dictionaries of common passwords. Use encryption protocols like TLS to protect network traffic.
+- **Password Crackers** - Software tools used to discover passwords by brute force or dictionary attacks. Utilize multi-factor authentication.
+- ***Password spraying*** - Sprays a single, common or default password (or a small list of passwords) against many usernames across a system. Often automated, targeting large numbers of usernames with a limited set of frequently used passwords.
+
 
 [Back to ToC](#cyber-attacks)
 
