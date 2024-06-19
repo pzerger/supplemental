@@ -1,6 +1,6 @@
 # 5 PMI Process Groups
 
-We have the five process groups from the Project Management Institute where we're initiating, planning our project, executing our project, monitoring and controlling our project, and closing our project as we go along. 
+The five process groups from the Project Management Institute cover the project lifecycle from initiating a project, planning the project, executing the project, monitoring and controlling the project, and finally, closing the project. 
 
 The process groups are sequential but can overlap. Planning happens through the life of the project. Executing and monitoring/controlling occur in parallel through most phases of the project.
 
