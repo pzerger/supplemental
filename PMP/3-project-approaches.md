@@ -1,12 +1,14 @@
 # 3 Project Management Approaches
 
-- [Agile](#agile)
+- [Adaptive](#adaptive)
 - [Hybrid](#hybrid)  
 - [Predictive (Waterfall)](#predictive-waterfall)
 
 Here are the key differences between agile, hybrid, and predictive project management approaches that may be covered on the PMP exam. The exam is said to be ~50% agile and 50% waterfall. However, recent exam candidates report heavier focus on agile and hybrid.
 
-### Agile:
+### Adaptive:
+
+ An iterative approach that breaks down projects into smaller chunks and prioritizes flexibility.
 
 **Characteristics**
 
@@ -29,6 +31,8 @@ Here are the key differences between agile, hybrid, and predictive project manag
 
 ### Hybrid: 
 
+A blend of Agile and Predictive methods, combining flexibility with structure.
+
 **Characteristics**
 
 - Combination of predictive and agile approaches  
@@ -46,6 +50,8 @@ Here are the key differences between agile, hybrid, and predictive project manag
 [Return to ToC](#3-project-management-approaches)
 
 ### Predictive (Waterfall):
+
+A structured approach with a detailed plan upfront. 
 
 **Characteristics**
 
