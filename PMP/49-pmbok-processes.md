@@ -1,5 +1,5 @@
 
-## 5 Phases or Process Groups of Project Management
+## 5 PMI Process Groups
 
 1. Initiating
 2. Planning
