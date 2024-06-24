@@ -168,10 +168,10 @@ The process of estimating the type and amount of resources required for each pro
  #### 29 – Acquire Resources 
 The process of acquiring the resources like team members, types of equipment and other resources required for the project delivery. The main objective of this process is to ensure there is no shortfall of resources required for the project.
 
-#### 30 – Develop Team process
+#### 30 – Develop Team 
 The process in which the stakeholder or project manager improve the knowledge, skills and techniques of the team members as per the requirement of the project quality. This improves the competencies and enables the interaction between the team members enhancing the quality of the project.
 
-### 31 – Manage Team 
+#### 31 – Manage Team 
 The process of tracking and recording the performances of the team and managing by giving feedback, resolving issues, managing conflicts and optimize the project performance according to the project requirement. The main objective of this process is to improve the overall performance of the team and enhance productivity.
 
 #### 32 – Control Resources 
