@@ -1,4 +1,12 @@
 
+## 49 Project Management Processes
+
+The 49 PMBOK processes are the building blocks of project management, covered in version 6 of The Guide to the Project Management Body of Knowledge (PMBOK Guide). The 49 processes and their relationship to the [5 process groups](https://github.com/pzerger/supplemental/blob/prod/PMP/5-process-groups.md) and [10 knowledge areas](https://github.com/pzerger/supplemental/blob/prod/PMP/10-knowledge-areas.md) are covered below.
+
+![49 PMBOK processes](/PMP/images/49-pmbok-processes.png)
+
+The PMBOK 49 processes for project management are broken down into five PMBOK process groups, which represent the phases a project goes through, from its initiation to its closure.
+
 ## 5 PMI Process Groups
 
 1. Initiating
@@ -7,19 +15,11 @@
 4. Monitoring and Controlling
 5. Closing
 
-- **Initiating**. These processes help you define a new piece of work – either a complete new project or the phase you are about to begin. They ensure you have authority to proceed.
-
-- **Planning**. These processes help you define objectives and scope out the work to be done. They also encompass all the work around planning and scheduling tasks. Again, they can cover a complete project or just the phase you are working on right now. Or you might be closing one phase and planning the next in parallel.
-
-- **Executing**. You do these processes as you carry out your project tasks. This is the ‘delivery’ part of project management, where the main activity happens and you create the products.
-
-- **Monitoring and Controlling**. These processes let you track the work that is being done, review and report on it. They also cover what happens when you find out the project isn’t following the agreed plan, so change management falls into this Process Group. You’ll run these processes alongside those in the Executing Group (mainly, but alongside the other Groups too) so you monitor as you go.
-
-- **Closing**. Finally, these processes let you finalize all the tasks in the other Groups when you get to the point to close the project or phase.
-
 ## 10 Knowledge Areas of Project Management
 
-Each knowledge represents a complete area of specialization including jargon, tools, concepts and tasks. You will need to know something about each of them in order to be able to successfully manage a project. And to achieve your PMP® credential you’ll have to answer questions on each of them.
+There are 10 knowledge areas which applied throughout the 5 process groups. Each knowledge area represents a complete area of specialization including jargon, tools, concepts and tasks. You will need to know something about each of them in order to be able to successfully manage a project. And to achieve your PMP® credential you’ll have to answer questions on each of them.
+
+The 49 processes are described in order here.
 
 1. [Project Integration Management](#integration-management)
 2. [Project Scope Management](#scope-management)
@@ -34,21 +34,19 @@ Each knowledge represents a complete area of specialization including jargon, to
 
 Knowledge Areas are made up of processes, which are detailed below.
 
-## 49 Project Management Processes
 
-![49 PMBOK processes](/PMP/images/49-pmbok-processes.png)
 
 ### Integration Management
 
 The coordination between the resources, stakeholders, and other project elements which ensures to execute the project end to end successfully is Project Integration Management. It is very important because project success highly depends on integration management in terms of schedule, cost, quality, scope, risks, etc.
 
 #### 1 – Develop Project Charter 
-The develop project charter process is a document which is prepared in the initiation phase to formally authorize the existence of the project. In this process, the document is prepared and given to the authoritative project manager to use the resources required for the project.
+The ***develop project charter*** process is a document which is prepared in the initiation phase to formally authorize the existence of the project. In this process, the document is prepared and given to the authoritative project manager to use the resources required for the project.
 
 The project charter is a key element which describes the whole project in brief. The project charter generally includes the objective of the project, stakeholders, requirements, high-level assumption and constraints etc.
 
 #### 2 – Develop Project Management Plan 
-The process of combining all the project plans and sub-plans into a single integrated plan. It is one of the most crucial processes of project management. Project success is dependent on the project management plan. The authoritative head to plan project management is the project manager.
+This is process of combining all the project plans and sub-plans into a single integrated plan. It is one of the most crucial processes of project management. Project success is dependent on the project management plan. The authoritative head to plan project management is the project manager.
 
 This document is approved and signed by authorized stakeholders.
 
@@ -64,7 +62,7 @@ Monitoring and controlling project work refers to the continuous tracking, revie
 The performances of each assigned resource are monitored and controlled. The document is prepared regarding the issue and the improvement possible.
 
 #### 6 – Perform Integrated Change Control 
-The perform integrated change control process includes reviewing all the change requests and managing them effectively from all the working department. The document is prepared for approval of any change requests.
+The ***perform integrated change control*** process includes reviewing all the change requests and managing them effectively from all the working department. The document is prepared for approval of any change requests.
 
 The change requests are approved when there is not much impact on scope, time and cost of the project. The change requests can be project deliverables, project plan or project assets.
 
@@ -89,22 +87,22 @@ The complete description of the scope of the project is documented in this proce
 The clear description of the project is available from this process.
 
 #### 11 – Create WBS 
-Creating WBS refers to the Work Breakdown Structure in which all the project activities are divided into smaller activities. This helps in assigning tasks or activities to the resources. This framework also helps in understanding the project objectives and the defined scope. The inputs, tools and techniques, and the outputs are clearly defined in this process.
+the ***create WBS*** process refers to the Work Breakdown Structure in which all the project activities are divided into smaller activities. This helps in assigning tasks or activities to the resources. This framework also helps in understanding the project objectives and the defined scope. The inputs, tools and techniques, and the outputs are clearly defined in this process.
 
 #### 12 – Validate Scope 
 In this process, the final deliverables are validated and accepted by the project manager. It is a formal acceptance of the completed project whether it met the scope or not is validated in this process. Before submitting the final deliverables to the customer, if the project manager validates the scope, then the chances of the customer accepting the projects are also high.
 
 #### 13 – Control Scope 
-The control scope process ensures whether all the project activities are according to the planned scope. This process monitors the status of the project and manages the changes according to the scope baseline. It ensures there is no slippery in the project scope during project activities.
+The ***control scope process*** ensures whether all the project activities are according to the planned scope. This process monitors the status of the project and manages the changes according to the scope baseline. It ensures there is no slippery in the project scope during project activities.
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
 ### Schedule Management
 
-Project schedule management involves the listing of the tasks, deliverables, duration, stakeholder assigned, start and end date of the tasks within the project. Time management completely depends on the proper schedule management.
+Project ***schedule management*** involves the listing of the tasks, deliverables, duration, stakeholder assigned, start and end date of the tasks within the project. Time management completely depends on the proper schedule management.
 
 #### 14 – Plan Schedule Management 
-Schedule Management Plan ensures the project activities are completed on time. The document is created with project activities based on WBS and time is allocated to complete the project work activity. It is the process of determining the procedures, policies, planning, executing, managing, and controlling the scheduled activity.
+The ***Schedule Management Plan*** ensures the project activities are completed on time. The document is created with project activities based on WBS and time is allocated to complete the project work activity. It is the process of determining the procedures, policies, planning, executing, managing, and controlling the scheduled activity.
 
 #### 15 – Define Activities 
 The list of all the project activities to be conducted during the project execution is documented in this process. The exact actions to be taken to achieve the project objective is the main output of this process. In this process, the input, tools and techniques and output is clearly defined.
@@ -114,6 +112,7 @@ The process of identifying the priorities of the project activities and document
 
 #### 17 – Estimate Activity Durations 
 Estimating the activity durations refers to document the time allotted to each project activity. This process helps to set the whole project timeline according to the sequence of project activities.
+
 #### 18 – Develop Schedule 
 The process of combining all the components of schedule management to project timeline is scheduling process. The document is created by analyzing the sequence of project activities and the estimated duration.
 
@@ -127,43 +126,42 @@ The process of monitoring and managing the time taken to complete the project ac
 Cost is the most critical factor in any organization. The process of estimating, allocating and controlling the cost of the whole project comes in project cost management. The budget is fixed according to the project activities. The costs are estimated during the planning phase and controlled if it exceeds during execution.
 
 #### 20 – Plan Cost Management 
-The process of cost management plan includes the policies, procedures and guidelines to plan, manage, and control the project costs. It also includes documenting the costs throughout the project. The cost management plan is done according to the project activities, schedule, resource and requirements.
+The ***plan cost management*** process includes the policies, procedures and guidelines to plan, manage, and control the project costs. It also includes documenting the costs throughout the project. The cost management plan is done according to the project activities, schedule, resource and requirements.
 
 #### 21 – Estimate Costs 
 This process includes estimating all the monetary resources included in the project activities to achieve the target on scheduled time. The costs are estimated based on the resource requirements. The main objective of this process is to determine the overall cost required to complete the process.
 
 #### 22 – Determine Budget 
-The process of combining the cost of all the project activities to establish the formal cost baseline of the overall project. This process helps in projects cost flow, risk management. Cost baseline helps in monitoring and controlling the cost of individual activities.
+This is the process of combining the cost of all the project activities to establish the formal cost baseline of the overall project. This process helps in projects cost flow, risk management. Cost baseline helps in monitoring and controlling the cost of individual activities.
 
 #### 23 - Control Costs 
-The process of monitoring and controlling the cost of individual project activities during execution is called a control cost process. The costs are controlled and brought to the cost baseline if exceeds.  The document of cost update is maintained throughout the project.
+The process of monitoring and controlling the cost of individual project activities during execution is called the ***control costs*** process. The costs are controlled and brought to the cost baseline if exceeds.  The document of cost update is maintained throughout the project.
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
 ### Quality Management
-
-The process of achieving assured quality with respect to scope, time and cost is project quality management. With proper quality management, an organization can achieve customer satisfaction and enhance further productivity. The process of quality management is in three phases of project management: Planning, execution, and monitoring and controlling.
+The process of achieving assured quality with respect to scope, time and cost is project ***quality management***. With proper quality management, an organization can achieve customer satisfaction and enhance further productivity. The process of quality management is in three phases of project management: Planning, execution, and monitoring and controlling.
 
 #### 24 – Plan Quality Management 
-Plan Quality Management process is the process of identifying the quality requirements and quality standards relevant to the project output. The document of a set of quality standards is prepared for each project activities. The methodology used, the resource assigned, the cost and the time allocated are the major factors affecting quality.
+The ***plan quality management*** process is the process of identifying the quality requirements and quality standards relevant to the project output. The document of a set of quality standards is prepared for each project activities. The methodology used, the resource assigned, the cost and the time allocated are the major factors affecting quality.
 
 #### 25 – Manage Quality 
-Manage Quality process is the process of managing all the project activities according to the quality management plan while executing. The main objective of managing quality process is to integrate all the quality policies in the project activities to maintain the quality plan management.
+The ***manage quality*** process is the process of managing all the project activities according to the quality management plan while executing. The main objective of managing quality process is to integrate all the quality policies in the project activities to maintain the quality plan management.
 
 #### 26 – Control Quality 
-Control Quality process is the process of monitoring and controlling the executed project activities according to quality management. The main objective of this process is to ensure the project output is correct, complete and meet the expectations of the customer and the quality plan. This process also includes the documentation of results obtained during the control quality process.
+The ***control quality*** process is the process of monitoring and controlling the executed project activities according to quality management. The main objective of this process is to ensure the project output is correct, complete and meet the expectations of the customer and the quality plan. This process also includes the documentation of results obtained during the control quality process.
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
 ### Resource Management
 
-The project resource management involves managing human resource, material, equipment, knowledge and time. Recourse plays a very important role during the execution of the project. There are 6 Project resource management processes in three phases of project management.
+The project ***resource management*** involves managing human resource, material, equipment, knowledge and time. Recourse plays a very important role during the execution of the project. There are 6 Project resource management processes in three phases of project management.
 
 #### 27 – Plan Resource Management 
- Plan Resource Management process is a process of identifying the required resources, equipment for the required for the project activities. Planning resources include preparing the user guide document to identify, acquire, manage and monitor the required resources for project activities. 
+ The ***plan resource management*** process is a process of identifying the required resources, equipment for the required for the project activities. Planning resources include preparing the user guide document to identify, acquire, manage and monitor the required resources for project activities. 
 
 #### 28 – Estimate Activity Resources 
-The process of estimating the type and amount of resources required for each project activities. The main objective of estimating resources is to plan the resource requirement for the overall project.
+This is the process of estimating the type and amount of resources required for each project activities. The main objective of estimating resources is to plan the resource requirement for the overall project.
 
  #### 29 – Acquire Resources 
 The process of acquiring the resources like team members, types of equipment and other resources required for the project delivery. The main objective of this process is to ensure there is no shortfall of resources required for the project.
@@ -175,28 +173,28 @@ The process in which the stakeholder or project manager improve the knowledge, s
 The process of tracking and recording the performances of the team and managing by giving feedback, resolving issues, managing conflicts and optimize the project performance according to the project requirement. The main objective of this process is to improve the overall performance of the team and enhance productivity.
 
 #### 32 – Control Resources 
-The Control Resources process aims to fulfil all the resource requirement for the project activities. It ensures all the resources allocated are according to plan. The probability of change requests is high in resource management. Therefore, controlling the resources and monitoring according to the resource plan management is highly essential.
+The ***control resources*** process aims to fulfil all the resource requirement for the project activities. It ensures all the resources allocated are according to plan. The probability of change requests is high in resource management. Therefore, controlling the resources and monitoring according to the resource plan management is highly essential.
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
 ### Communications Management
 
-The project communications management ensures that the right message is sent, received and understood by the right people. Communication is one of the most critical factors affecting the success of the project. According to PMI, most of the project failed due to communication. The three processes are involved in project communication management in planning, executing and monitoring phase.
+The project ***communications management*** process ensures that the right message is sent, received and understood by the right people. Communication is one of the most critical factors affecting the success of the project. According to PMI, most of the project failed due to communication. The three processes are involved in project communication management in planning, executing and monitoring phase.
 
 #### 33 – Plan Communications Management 
 The process of conducting proper communication according to the stakeholder’s need and requirement. The process includes a proper approach and plan of communication with organizational assets. The communication can be through any formal and recorded medium.
 
 #### 34 – Manage Communications 
-Managing communication process ensures that the message is created, collected, recorded and distributed by authorized stakeholders and understood by the receiving end according to the communications management plan.
+The ***managing communications*** process ensures that the message is created, collected, recorded and distributed by authorized stakeholders and understood by the receiving end according to the communications management plan.
 
 #### 35 – Monitor Communications 
-Monitoring communications process is a process of monitoring and controlling the communications throughout the project life cycle ensuring that the communication meets the stakeholder’s information requirement.
+The ***monitoring communications*** process is a process of monitoring and controlling the communications throughout the project life cycle ensuring that the communication meets the stakeholder’s information requirement.
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
 ### Risk Management
 
-Project risk management involves identifying the risks, analyze the risk and control the risk. The risk management is done to reduce the impact of risk on project pace. The risk identified can be uncertain and have a huge impact on the resource, processes, technology, and schedule. The 7 processes of risk management lies in planning, executing and monitoring phase.
+Project ***risk management*** involves identifying the risks, analyze the risk and control the risk. The risk management is done to reduce the impact of risk on project pace. The risk identified can be uncertain and have a huge impact on the resource, processes, technology, and schedule. The 7 processes of risk management lies in planning, executing and monitoring phase.
 
 #### 36 – Plan Risk Management 
 Planning risk management involves preparing the document on identifying risk, prioritizing and managing according to the risk assessment matrix and how to conduct risk assessments activities within the project.
@@ -223,22 +221,21 @@ The process involves monitoring the implemented action plans against risk identi
 
 ### Procurement Management
 
-The project procurement management involves obtaining goods, services and supplies. Procurement includes all the materials required to complete the project. 3 procurement management processes are involved in planning, executing and monitoring phase of project management.
+The project ***procurement management*** process involves obtaining goods, services and supplies. Procurement includes all the materials required to complete the project. 3 procurement management processes are involved in planning, executing and monitoring phase of project management.
 
 #### 43 – Plan Procurement Management 
 The process of documenting the material required, specifying the approach, identifying potential dealers, identifying good service required for the project within the allocated budget and assured quality.
 
-#### 44 – Conduct Procurements 
+#### 44 – Conduct Procurements
 The process of selecting the seller, obtaining seller responses and finalizing the procurement requirement with the seller through agreements. The main objective of this process is to ensure procurements are done according to the requirement for deliverables of the project.
 
-#### 45 – Control Procurements 
+#### 45 – Control Procurements
 The control procurement process involves managing all the procurement relationship and monitoring contract performance. This process also involves deciding the changes related to procurement wherever necessary.
 
 [Back to Knowledge Areas](#10-knowledge-areas-of-project-management)
 
 #### Stakeholder Management
-
-The project stakeholder management is the process of identifying suitable stakeholder for the project and meet the expectation of the selected stakeholder. The success or failure of the project depends on the key stakeholders.
+Project stakeholder management is the process of identifying suitable stakeholder for the project and meet the expectation of the selected stakeholder. The success or failure of the project depends on the key stakeholders.
 
 Four project stakeholder processes are involved in initiating, planning, executing, and monitoring and controlling the phase of project management.
 
