@@ -613,9 +613,6 @@ A sprint is a time-boxed iteration, typically 1-4 weeks long, during which a pot
 Importance: Sprints provide a regular cadence for planning, development, and delivery, supporting the Agile principle of delivering working software frequently.
 
 ### Tasks
-Tasks are
-
-### Tasks
 Tasks are small units of work, typically broken down from user stories, that can be completed by one person in a short amount of time.
 
 Importance: Breaking work down into tasks helps make progress visible and allows team members to collaborate effectively.
@@ -759,5 +756,3 @@ Importance: This leadership style aligns well with Agile principles and is often
 A siloed organization is one where different departments or groups do not share information or collaborate effectively with each other.
 
 Importance: Recognizing and breaking down silos is often crucial for successful Agile adoption and effective cross-functional collaboration.
-
-This completes the full list of Agile project management terms, grouped into meaningful categories with their explanations and importance.
