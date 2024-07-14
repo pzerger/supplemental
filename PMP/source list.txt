@@ -1,0 +1,155 @@
+Acceptance test driven development
+Adaptive project management
+Agile coach
+Agile life cycle
+Agile Manifesto
+Agile mindset
+Agile practitioner
+Agile principles
+Agile project charter
+Agile Unified Process (AUP)
+Agilist
+Anti-pattern
+Automated code quality analysis
+Backlog preparation
+Behavior driven development (BDD)
+Blended agile
+Blocker
+Broken comb
+Business requirements document (BRD)
+Collective code ownership
+Continuous integration
+Cross-functional team
+Crystal family of methodologies
+Daily stand-up
+Definition of done
+Definition of ready
+Disciplined agile
+Double loop learning
+Dynamic Systems Development Method (DSDM)
+English-like scripts
+Epics
+Equivalent to scrum master
+Evolutionary value delivery (EVO)
+Extreme Programming (XP)
+Facilitation
+Feature chart
+Feature driven development (FDD)
+Features
+Fit for purpose
+Fit for use
+Flowmaster
+Framework
+Functional requirement
+Functional specification
+Given-When-Then
+Hoshin kanri
+Hybrid approach
+Impediment log
+Increment
+Incremental life cycle
+I-shaped
+Iterative life cycle
+Kaizen event
+Kanban method
+Large-Scale Scrum (LeSS)
+Lean software development
+Minimal viable product (MVP)
+Minimum business increment
+Minimum marketable product (MMP)
+Mob programming
+Organizational bias
+Organizational change management
+Paint drip
+Pair programming
+Pair work
+Personas
+Pivot
+Plan-Do-Check-Act (PDCA)
+Planning poker
+Potentially shippable product increment (PSPI)
+Predictive life cycle
+Product backlog
+Product backlog burn up chart
+Product increment
+Refactoring
+Release burn down chart
+Roadmapping
+Role, goal, benefit
+Scaled Agile Framework (SAFe)
+Scrum
+Scrum board
+Scrum master
+Scrum team
+Scrumban
+Service request manager
+Silent relative sizing
+Siloed organization
+Single-loop learning
+Smoke testing
+Specification by example
+Spike
+Sprint backlog
+Sprint review/demo
+Story mapping
+Story writing
+Storyboard/kanban board
+Sustainable pace
+Swarming
+Technical debt
+Test driven development (TDD)
+The Nexus
+Three C's (Card, Conversation, Confirmation)
+T-shaped
+User story mapping
+UX design
+Value stream
+Vision
+User story
+Daily scrum
+Scrum of scrums
+Scrum of scrums/meta scrum
+Product roadmap
+Burn down chart
+Burn up chart
+Agile
+Continuous delivery
+DevOps
+Minimum viable product (MVP)
+Predictive Approach
+Progressive elaboration
+Project Management Office (PMO)
+Servant Leadership
+Iteration (sprint) planning meeÃ¼ng
+Iteration (sprint) review meeting
+Iteration burndown chart
+Sprint Planning Meeting
+Risk-based spikes
+Story points
+T-shirt sizing
+Sprint planning
+Sprint retrospective
+Sprint review
+Story point estimating
+Cadence
+Epic
+Iteration
+Kanban board
+Product owner
+Rolling wave planning
+Self-organizing team
+Sprint
+Story point
+Task board
+Tasks
+Backlog
+Risk-Adjusted Backlog
+Information radiator
+Scatter Diagram
+Impact mapping
+Value Stream Mapping
+Relative estimating
+Iteration planning
+Release planning
+Retrospective
+Backlog refinement
