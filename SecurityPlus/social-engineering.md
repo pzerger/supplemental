@@ -52,4 +52,5 @@ Read more on phishing and related variants at https://en.wikipedia.org/wiki/Phis
 - **Invoice scams** - Fake invoices prompting payments to fraudulent accounts.
 - **Pretexting** - Creating a false scenario to trick people into divulging information.
 - **Prepending** - Manipulating caller ID to appear to call from a trusted source.
+
 [Back to ToC](#table-of-contents)
