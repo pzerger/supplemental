@@ -39,7 +39,7 @@ This list includes the formulas and formula-related terms you should know for th
 
 **Explanation:** PERT Beta is a weighted average calculation used in project management to estimate the expected duration of an activity.
 
-Situation: Use this when you have optimistic, pessimistic, and most likely estimates for an activity's duration.
+**Situation:** Use this when you have optimistic, pessimistic, and most likely estimates for an activity's duration.
 
 **Formula:**
 ```
@@ -50,7 +50,7 @@ PERT Beta = (Optimistic + 4 * Most Likely + Pessimistic) / 6
 
 **Explanation:** PERT Standard Deviation measures the variability or uncertainty in the PERT estimates.
 
-Situation: Use this to determine the range of potential outcomes and assess the risk associated with time estimates.
+**Situation:** Use this to determine the range of potential outcomes and assess the risk associated with time estimates.
 
 **Formula:**
 ```
@@ -61,7 +61,7 @@ Standard Deviation = (Pessimistic - Optimistic) / 6
 
 **Explanation:** The Triangular Distribution is a simpler alternative to the PERT Beta, using only three estimates without weighting.
 
-Situation: Use when you want a quick, straightforward estimate and don't need the precision of the Beta distribution.
+**Situation:** Use when you want a quick, straightforward estimate and don't need the precision of the Beta distribution.
 
 **Formula:**
 ```
@@ -72,7 +72,7 @@ Triangular Distribution = (Optimistic + Most Likely + Pessimistic) / 3
 
 **Explanation:** PERT (Program Evaluation and Review Technique) formulas are used for estimating project durations and analyzing schedule network diagrams.
 
-Situation: Use PERT formulas when dealing with uncertain activity durations in project scheduling.
+**Situation:** Use PERT formulas when dealing with uncertain activity durations in project scheduling.
 
 Formulas: See PERT Beta, PERT Standard Deviation, and PERT Triangular Distribution above.
 
@@ -80,7 +80,7 @@ Formulas: See PERT Beta, PERT Standard Deviation, and PERT Triangular Distributi
 
 **Explanation:** TCPI measures the cost performance that must be achieved to complete the remaining work within a specified budget.
 
-Situation: Use when you need to assess the efficiency required to complete the project within budget constraints.
+**Situation:** Use when you need to assess the efficiency required to complete the project within budget constraints.
 
 **Formula:**
 ```
@@ -95,7 +95,7 @@ TCPI = (BAC - EV) / (EAC - AC)
 
 **Explanation:** The number of potential communication channels between project stakeholders.
 
-Situation: Use to understand the complexity of communication in a project and plan communication strategies accordingly.
+**Situation:** Use to understand the complexity of communication in a project and plan communication strategies accordingly.
 
 **Formula:**
 ```
@@ -107,7 +107,7 @@ Where n is the number of stakeholders.
 
 **Explanation:** CPI measures the cost efficiency of the project, comparing earned value to actual costs.
 
-Situation: Use to determine how efficiently the project is using its budget.
+**Situation:** Use to determine how efficiently the project is using its budget.
 
 **Formula:**
 ```
@@ -118,7 +118,7 @@ CPI = EV / AC
 
 **Explanation:** The total cost incurred for work performed on the project to date.
 
-Situation: Used in earned value calculations and for tracking project expenses.
+**Situation:** Used in earned value calculations and for tracking project expenses.
 
 **Formula:** No specific formula; it's the sum of all costs incurred.
 
@@ -126,7 +126,7 @@ Situation: Used in earned value calculations and for tracking project expenses.
 
 **Explanation:** The total planned budget for the entire project.
 
-Situation: Used as a baseline for comparing project performance and calculating other earned value metrics.
+**Situation:** Used as a baseline for comparing project performance and calculating other earned value metrics.
 
 **Formula:** No specific formula; it's determined during project planning.
 
@@ -134,7 +134,7 @@ Situation: Used as a baseline for comparing project performance and calculating 
 
 **Explanation:** The difference between the earned value and the actual cost.
 
-Situation: Use to determine if the project is over or under budget.
+**Situation:** Use to determine if the project is over or under budget.
 
 **Formula:**
 ```
@@ -145,7 +145,7 @@ CV = EV - AC
 
 **Explanation:** The value of work actually completed, expressed in terms of the budget assigned to that work.
 
-Situation: Used in various earned value calculations to assess project performance.
+**Situation:** Used in various earned value calculations to assess project performance.
 
 **Formula:**
 ```
@@ -156,7 +156,7 @@ EV = % Complete * BAC
 
 **Explanation:** The expected total cost of the project at completion.
 
-Situation: Use to forecast the final project cost based on current performance.
+**Situation:** Use to forecast the final project cost based on current performance.
 
 **Formula:**
 ```
@@ -168,7 +168,7 @@ EAC = AC + (BAC - EV) / CPI
 
 **Explanation:** The expected cost to complete all remaining project work.
 
-Situation: Use to estimate the remaining budget needed to finish the project.
+**Situation:** Use to estimate the remaining budget needed to finish the project.
 
 **Formula:**
 ```
@@ -179,7 +179,7 @@ ETC = EAC - AC
 
 **Explanation:** The projected difference between the budget at completion and the estimate at completion.
 
-Situation: Use to forecast the amount of budget variance at the end of the project.
+**Situation:** Use to forecast the amount of budget variance at the end of the project.
 
 **Formula:**
 ```
@@ -190,7 +190,7 @@ VAC = BAC - EAC
 
 **Explanation:** A technique used to calculate the average outcome of scenarios that may or may not happen.
 
-Situation: Use in decision-making processes, particularly for risk analysis and opportunity assessment.
+**Situation:** Use in decision-making processes, particularly for risk analysis and opportunity assessment.
 
 **Formula:**
 ```
@@ -201,7 +201,7 @@ EMV = Probability * Impact
 
 **Explanation:** SPI measures the schedule efficiency of the project, comparing earned value to planned value.
 
-Situation: Use to determine if the project is ahead of or behind schedule.
+**Situation:** Use to determine if the project is ahead of or behind schedule.
 
 **Formula:**
 ```
@@ -212,7 +212,7 @@ SPI = EV / PV
 
 **Explanation:** The difference between the earned value and the planned value.
 
-Situation: Use to determine if the project is ahead of or behind schedule in terms of value.
+**Situation:** Use to determine if the project is ahead of or behind schedule in terms of value.
 
 **Formula:**
 ```
@@ -223,7 +223,7 @@ SV = EV - PV
 
 **Explanation:** The time required to recover the cost of an investment.
 
-Situation: Use when evaluating the attractiveness of an investment or project.
+**Situation:** Use when evaluating the attractiveness of an investment or project.
 
 **Formula:**
 ```
@@ -234,7 +234,7 @@ Payback Period = Initial Investment / Annual Cash Inflow
 
 **Explanation:** A performance measure used to evaluate the efficiency of an investment.
 
-Situation: Use when comparing the profitability of different investments or projects.
+**Situation:** Use when comparing the profitability of different investments or projects.
 
 **Formula:**
 ```
@@ -245,7 +245,7 @@ ROI = (Net Profit / Cost of Investment) * 100
 
 **Explanation:** The current value of a future sum of money, given a specified rate of return.
 
-Situation: Use when comparing cash flows at different time periods or evaluating investment opportunities.
+**Situation:** Use when comparing cash flows at different time periods or evaluating investment opportunities.
 
 **Formula:**
 ```
@@ -257,7 +257,7 @@ Where FV is future value, r is interest rate, and n is number of periods.
 
 **Explanation:** A contract type where the seller is reimbursed for costs plus an award fee based on performance.
 
-Situation: Use when objective performance measures are difficult to define upfront.
+**Situation:** Use when objective performance measures are difficult to define upfront.
 
 **Formula:** No specific formula; fee structure is defined in the contract.
 
@@ -265,7 +265,7 @@ Situation: Use when objective performance measures are difficult to define upfro
 
 **Explanation:** A contract type where the seller is reimbursed for costs plus a fixed fee payment.
 
-Situation: Use when the scope of work is uncertain but costs need to be controlled.
+**Situation:** Use when the scope of work is uncertain but costs need to be controlled.
 
 **Formula:** No specific formula; fee is a fixed amount defined in the contract.
 
@@ -273,7 +273,7 @@ Situation: Use when the scope of work is uncertain but costs need to be controll
 
 **Explanation:** A contract type where the seller is reimbursed for costs plus an incentive fee based on meeting defined performance targets.
 
-Situation: Use when specific performance objectives can be identified and measured.
+**Situation:** Use when specific performance objectives can be identified and measured.
 
 **Formula:** No specific formula; fee structure is defined in the contract based on performance metrics.
 
@@ -281,7 +281,7 @@ Situation: Use when specific performance objectives can be identified and measur
 
 **Explanation:** A numeric assessment of risk used in Failure Mode and Effects Analysis (FMEA).
 
-Situation: Use when prioritizing risks for mitigation in product or process design.
+**Situation:** Use when prioritizing risks for mitigation in product or process design.
 
 **Formula:**
 ```
@@ -292,7 +292,7 @@ RPN = Severity * Occurrence * Detection
 
 **Explanation:** A contract type where the seller is reimbursed for costs plus a percentage of costs as profit.
 
-Situation: This contract type is generally discouraged due to lack of incentive for cost control.
+**Situation:** This contract type is generally discouraged due to lack of incentive for cost control.
 
 **Formula:**
 ```
@@ -303,7 +303,7 @@ Total Payment = Actual Costs + (Percentage * Actual Costs)
 
 **Explanation:** A ratio used to summarize the overall value for money of a project or proposal.
 
-Situation: Use when comparing projects or making go/no-go decisions based on the relationship between costs and benefits.
+**Situation:** Use when comparing projects or making go/no-go decisions based on the relationship between costs and benefits.
 
 **Formula:**
 ```
@@ -314,7 +314,7 @@ BCR = Present Value of Benefits / Present Value of Costs
 
 **Explanation:** The value of an asset or cash at a specified date in the future based on an assumed growth rate.
 
-Situation: Use in financial planning and investment analysis to project the growth of investments.
+**Situation:** Use in financial planning and investment analysis to project the growth of investments.
 
 **Formula:**
 ```
@@ -326,7 +326,7 @@ Where PV is present value, r is interest rate, and n is number of periods.
 
 **Explanation:** In a Fixed Price Incentive Fee (FPIF) contract, the point at which the seller assumes all additional costs.
 
-Situation: Use in contract negotiations to determine risk sharing between buyer and seller.
+**Situation:** Use in contract negotiations to determine risk sharing between buyer and seller.
 
 **Formula:**
 ```
@@ -337,7 +337,7 @@ PTA = Target Cost + (Ceiling Price - Target Price) / Buyer's Share Ratio
 
 **Explanation:** In incentive contracts, the estimated cost plus target profit that represents the expected final price.
 
-Situation: Use in contract negotiations to set expectations and incentives for both buyer and seller.
+**Situation:** Use in contract negotiations to set expectations and incentives for both buyer and seller.
 
 **Formula:**
 ```
