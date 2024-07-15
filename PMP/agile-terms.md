@@ -13,6 +13,7 @@ Below are approximately 150 important Agile project management terms you should 
 8. [Metrics and Visualization](#metrics-and-visualization)
 9. [Scaling Agile](#scaling-agile)
 10. [Continuous Improvement](#continuous-improvement)
+11. [Additional Concepts](#additional-concepts)
 
 ## Agile Fundamentals
 
