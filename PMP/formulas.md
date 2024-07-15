@@ -1,4 +1,3 @@
-Here's the revised answer with a clickable table of contents at the top:
 
 # PMP Exam Formulas and Terms
 
