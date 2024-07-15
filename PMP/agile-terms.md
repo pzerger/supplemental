@@ -1,6 +1,6 @@
 # Agile Project Management Glossary
 
-Below are approximately 150 important Agile project management terms you should know for the PMP examine. They are grouped into functional categories to help with your review.
+Below are approximately 150 important Agile project management terms you should know for the PMP examine. They are grouped into functional categories to help with your review. Each definition explains the term or concept, as well as it's importance, so you understand the WHAT and WHY of each on exam day.
 
 ## Table of Contents
 1. [Agile Fundamentals](#agile-fundamentals)
@@ -60,6 +60,8 @@ Importance: Maintaining a sustainable pace helps prevent burnout, maintain quali
 In Agile contexts, the vision is a concise statement of the desired future state that the project or product aims to achieve.
 
 Importance: A clear vision helps align team efforts and decision-making towards a common goal.
+
+[Back to ToC](#table-of-contents)
 
 ## Agile Methodologies and Frameworks
 
@@ -123,6 +125,8 @@ EVO is an iterative and incremental approach to software development that focuse
 
 Importance: EVO emphasizes the importance of measuring and demonstrating value delivery, which can help in justifying and guiding project decisions.
 
+[Back to ToC](#table-of-contents)
+
 ## Roles and Responsibilities
 
 ### Scrum master
@@ -164,6 +168,8 @@ Importance: Understanding team member shapes helps in forming balanced teams and
 A T-shaped person has deep knowledge in one area (the vertical bar of the T) and a broad base of general supporting knowledge or skills (the horizontal bar of the T).
 
 Importance: T-shaped individuals are valuable in cross-functional Agile teams, as they can contribute deeply in their area of expertise while also collaborating effectively across disciplines.
+
+[Back to ToC](#table-of-contents)
 
 ## Artifacts and Documentation
 
@@ -239,6 +245,8 @@ Importance: The concept of increments supports the Agile principle of delivering
 An information radiator is a large, visible display used to communicate key project information at a glance.
 
 Importance: Information radiators promote transparency and help keep everyone aligned on project status and goals.
+
+[Back to ToC](#table-of-contents)
 
 ## Meetings and Events
 
@@ -372,6 +380,8 @@ A risk-adjusted backlog is a product backlog that has been prioritized not just 
 
 Importance: Considering risk in backlog prioritization helps teams address potentially problematic areas early, reducing overall project risk.
 
+[Back to ToC](#table-of-contents)
+
 ## Development Practices
 
 ### Test driven development (TDD)
@@ -469,6 +479,8 @@ Swarming is when the entire team works together on the same problem or user stor
 
 Importance: Swarming can help teams complete work more quickly, especially for high-priority or complex items.
 
+[Back to ToC](#table-of-contents)
+
 ## Metrics and Visualization
 
 ### Burn down chart
@@ -531,6 +543,8 @@ Value stream mapping is a lean technique used to analyze, design, and manage the
 
 Importance: In Agile contexts, value stream mapping can help identify and eliminate waste in the development process, improving overall efficiency.
 
+[Back to ToC](#table-of-contents)
+
 ## Scaling Agile
 
 ### Large-Scale Scrum (LeSS)
@@ -557,6 +571,8 @@ Importance: This practice helps maintain coordination and alignment across multi
 Meta scrum refers to a higher-level coordination meeting in scaled Agile approaches, often involving product owners from multiple teams.
 
 Importance: Meta scrums help ensure alignment and coordination at a product or program level in larger Agile initiatives.
+
+[Back to ToC](#table-of-contents)
 
 ## Continuous Improvement
 
@@ -594,6 +610,8 @@ Importance: While not strictly an Agile practice, hoshin kanri can complement Ag
 Organizational change management is the process of helping an organization transition from its current state to a desired future state.
 
 Importance: Effective change management is crucial for successful Agile transformations, helping to overcome resistance and embed new ways of working.
+
+[Back to ToC](#table-of-contents)
 
 ## Additional Concepts
 
