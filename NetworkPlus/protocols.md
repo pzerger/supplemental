@@ -1,5 +1,7 @@
 # Protocols for CompTIA Network+ Exam
 
+Additional reading on some network protocol related topics covered on the Network+ exam.
+
 # Table of Contents
 - [Authentication](#authentication)
 - [Network Addressing (DHCP)](#network-addressing-dhcp)
