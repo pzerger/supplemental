@@ -78,11 +78,11 @@ DNS is a protocol that associates various information with domain names assigned
 
 ### DNS Concepts: A Record
 An A (Address) record is a DNS resource record that maps a domain name to an IPv4 address.
-Example: `www.example.com. IN A 192.0.2.1`
+> Example: `www.example.com. IN A 192.0.2.1`
 
 ### DNS Concepts: AAAA Record
 An AAAA (Quad-A) record is a DNS resource record that maps a domain name to an IPv6 address.
-Example: `www.example.com. IN AAAA 2001:db8::1`
+> Example: `www.example.com. IN AAAA 2001:db8::1`
 
 ### DNS Concepts: Authoritative Name Servers
 An authoritative name server is a DNS server that holds the definitive information about a specific domain and is responsible for providing answers to queries about that domain.
@@ -96,25 +96,25 @@ DNS caching is the process of storing DNS query results in a temporary database 
 
 ### DNS Concepts: CNAME Record
 A CNAME (Canonical Name) record is a DNS resource record that maps an alias name to a canonical (true) domain name.
-Example: `alias.example.com. IN CNAME www.example.com.`
+> Example: `alias.example.com. IN CNAME www.example.com.`
 
 ### DNS Concepts: Local Caching Resolver
 A local caching resolver is a DNS server that stores DNS query results in its cache and responds to client queries from the cache, reducing the need to query other DNS servers.
 
 ### DNS Concepts: MX Record
 An MX (Mail Exchange) record is a DNS resource record that specifies the mail server responsible for accepting email messages on behalf of a domain.
-Example: `example.com. IN MX 10 mail.example.com.`
+> Example: `example.com. IN MX 10 mail.example.com.`
 
 ### DNS Concepts: Name resolution
 Name resolution is the process of translating a domain name into an IP address or vice versa.
 
 ### DNS Concepts: NS Record
 An NS (Name Server) record is a DNS resource record that specifies the authoritative name servers for a domain.
-Example: `example.com. IN NS ns1.example.com.`
+> Example: `example.com. IN NS ns1.example.com.`
 
 ### DNS Concepts: PTR Record
 A PTR (Pointer) record is a DNS resource record used in reverse DNS lookups to map an IP address to a domain name.
-Example: `1.2.0.192.in-addr.arpa. IN PTR www.example.com.`
+> Example: `1.2.0.192.in-addr.arpa. IN PTR www.example.com.`
 
 ### DNS Concepts: Record types
 DNS record types are different types of resource records in the DNS database, such as A, AAAA, CNAME, MX, NS, PTR, SOA, SRV, and TXT records, each serving a specific purpose.
@@ -127,11 +127,11 @@ Root DNS servers are the top-level DNS servers in the hierarchical DNS system. T
 
 ### DNS Concepts: SOA Record
 An SOA (Start of Authority) record is a DNS resource record that provides essential information about a DNS zone, such as the primary name server, the email address of the domain administrator, and timers relating to the zone.
-Example: `example.com. IN SOA ns1.example.com. admin.example.com. 2023040700 3600 900 604800 86400`
+> Example: `example.com. IN SOA ns1.example.com. admin.example.com. 2023040700 3600 900 604800 86400`
 
 ### DNS Concepts: SRV Record
 An SRV (Service) record is a DNS resource record that specifies the location of services for a domain, such as servers for specific protocols like SIP or XMPP.
-Example: `_sip._tcp.example.com. IN SRV 10 60 5060 sip.example.com.`
+> Example: `_sip._tcp.example.com. IN SRV 10 60 5060 sip.example.com.`
 
 ### DNS Concepts: TLD Servers
 Top-Level Domain (TLD) servers are responsible for handling queries for specific top-level domains, such as .com, .org, or .net.
@@ -141,7 +141,7 @@ Time to Live (TTL) is a value in a DNS record that specifies how long a DNS resp
 
 ### DNS Concepts: TXT Record
 A TXT (Text) record is a DNS resource record that allows domain administrators to add arbitrary text to the DNS database, often used for email authentication protocols like SPF or DKIM.
-Example: `example.com. IN TXT "v=spf1 ip4:192.0.2.0/24 -all"`
+> Example: `example.com. IN TXT "v=spf1 ip4:192.0.2.0/24 -all"`
 
 ### DNS Concepts: Zone transfers
 A zone transfer is the process of copying the contents of a DNS zone from a primary DNS server to a secondary DNS server to ensure redundancy and load balancing.
