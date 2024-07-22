@@ -1,6 +1,12 @@
 # Troubleshooting
 
+Guidance on troubleshooting topic covered by the CompTIA Network+ exam.
 
+## Table of Contents
+
+- [Cable Troubleshooting](#cable-troubleshooting)
+- [Network Troubleshooting](#network-troubleshooting)
+- [Wireless Troubleshooting](#wireless-troubleshooting)
 
 ## Cable Troubleshooting
 
