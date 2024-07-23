@@ -55,39 +55,39 @@ Cable troubleshooting involves identifying and resolving issues related to netwo
 
 Network interfaces provide various statistics, errors, and alerts that help network administrators monitor the health and performance of the network. These metrics can be used to identify issues, troubleshoot problems, and optimize network performance.
 
-### Interface Stats, Errors, and Alerts: CRC errors
+### CRC errors
 
 CRC (Cyclic Redundancy Check) errors occur when the received data does not match the expected CRC value calculated by the receiving device. CRC errors indicate that the data has been corrupted during transmission, which can be caused by issues such as cable faults, electromagnetic interference, or hardware malfunctions. A high number of CRC errors can lead to retransmissions and degrade network performance.
 
-### Interface Stats, Errors, and Alerts: CRCs
+### CRCs
 
 CRCs (Cyclic Redundancy Checks) are error-checking mechanisms used to detect data corruption during transmission. The sending device calculates a CRC value based on the data being sent and appends it to the transmitted data. The receiving device recalculates the CRC value and compares it to the received CRC. If the values match, the data is considered valid. If the values do not match, a CRC error is counted, indicating data corruption.
 
-### Interface Stats, Errors, and Alerts: Encapsulation errors
+### Encapsulation errors
 
 Encapsulation errors occur when there is a mismatch between the expected and actual encapsulation of a packet. This can happen when a device receives a packet with an incorrect frame type, VLAN tag, or other encapsulation-related issues. Encapsulation errors can be caused by misconfiguration, software bugs, or hardware malfunctions.
 
-### Interface Stats, Errors, and Alerts: Giants
+### Giants
 
 Giants are Ethernet frames that exceed the maximum allowed size (1518 bytes for untagged frames or 1522 bytes for tagged frames). Giant frames can be caused by issues such as misconfiguration, software bugs, or hardware malfunctions. Giants can lead to network congestion and performance degradation, as they consume more bandwidth and may be dropped by network devices that cannot handle oversized frames.
 
-### Interface Stats, Errors, and Alerts: Link state
+### Link state
 
 Link state refers to the current status of a network interface. The link state can be "up" (operational), "down" (not operational), or "administratively down" (manually disabled). Monitoring link state is important for identifying interface failures, cable faults, or other issues that may affect network connectivity.
 
-### Interface Stats, Errors, and Alerts: Packet/byte counts
+### Packet/byte counts
 
 Packet and byte counts are metrics that track the total number of packets and bytes sent and received by a network interface. These counters can be used to monitor traffic levels, identify traffic patterns, and detect anomalies. Comparing packet and byte counts over time can help identify trends and potential issues, such as traffic spikes or asymmetric traffic flows.
 
-### Interface Stats, Errors, and Alerts: Runts
+### Runts
 
 Runts are Ethernet frames that are smaller than the minimum allowed size (64 bytes). Runt frames can be caused by issues such as collisions, cable faults, or hardware malfunctions. Runts are typically discarded by network devices, as they do not contain a complete packet and cannot be processed properly.
 
-### Interface Stats, Errors, and Alerts: Send/receive traffic
+### Send/receive traffic
 
 Send and receive traffic counters track the amount of data sent and received by a network interface, respectively. Monitoring these counters can help identify traffic patterns, detect bandwidth utilization issues, and troubleshoot performance problems. Comparing send and receive traffic can also help identify asymmetric traffic flows or other anomalies.
 
-### Interface Stats, Errors, and Alerts: Speed/duplex
+### Speed/duplex
 
 Speed and duplex settings determine the data rate and communication mode of a network interface. The speed setting specifies the maximum data rate (e.g., 10 Mbps, 100 Mbps, 1 Gbps), while the duplex setting determines whether the interface operates in half-duplex (one-way communication at a time) or full-duplex (simultaneous two-way communication) mode. Mismatched speed and duplex settings between connected devices can lead to performance issues, collisions, and interface errors.
 
