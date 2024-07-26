@@ -1,9 +1,9 @@
 
-# Visualizations 
+# Visualizations
 
 The following is a list of visualizations to aid in project management and delivery that may appear on the PMI Project Management Professional exam.
 
-## Table of Contents 
+## Table of Contents
 
 - [Affinity Diagram](#affinity-diagram)
 - [Burn down chart](#burn-down-chart)
