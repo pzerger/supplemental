@@ -481,7 +481,7 @@ UX (User Experience) design is the process of creating products that provide mea
 
 [Back to ToC](#table-of-contents)
 
-## Metrics and Visualization
+## Metrics and Visualizations
 
 ### Burn down chart
 A burn down chart shows how quickly the team is working through a customer's user stories, used to predict when all of the work will be completed.
