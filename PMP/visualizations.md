@@ -208,8 +208,14 @@ A lean-management method for analyzing the current state and designing a future 
 
 **Importance**: Critical for identifying and eliminating waste in processes, improving efficiency, and enhancing overall value delivery.
 
+![Image](https://quyasoft.com/wp-content/uploads/2022/11/vsm-service-management-software.jpg)
+
+[Back to ToC](#table-of-contents)
+
 ### Velocity Chart
 
 A chart that displays the amount of work a team completes during a sprint or iteration, typically used in Agile methodologies.
 
 **Importance**: Essential for sprint planning, capacity forecasting, and monitoring team performance over time in Agile projects.
+
+[Back to ToC](#table-of-contents)
