@@ -1,7 +1,7 @@
 
-# Visualizations
+# Visualizations (on the PMP and/or CAMP exams)
 
-The following is a list of visualizations to aid in project management and delivery that may appear on the PMI Project Management Professional exam.
+The following is a list of visualizations to aid in project management and delivery that may appear on the PMI Project Management Professional (PMP) and/or Certified Associate in Project Management (CAPM) exams.
 
 ## Table of Contents
 
