@@ -261,9 +261,11 @@ A visualization that shows the number of work items completed over time.
 
 ### Use Case
 
-A list of actions or event steps typically defining the interactions between an actor and a system to achieve a goal.
+A list of actions or event steps in a diagram, typically defining the interactions between an actor and a system to achieve a goal.
 
 **Importance**: Essential for capturing functional requirements, understanding user interactions, and guiding system design and testing.
+
+![Image](https://www.inettutor.com/wp-content/uploads/2023/03/Employee-Performance-System-Use-Case-Diagram.png)
 
 [Back to ToC](#table-of-contents)
 
@@ -284,3 +286,5 @@ A chart that displays the amount of work a team completes during a sprint or ite
 **Importance**: Essential for sprint planning, capacity forecasting, and monitoring team performance over time in Agile projects.
 
 [Back to ToC](#table-of-contents)
+
+![Image]()
