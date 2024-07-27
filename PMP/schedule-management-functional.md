@@ -1,5 +1,9 @@
 # Schedule Management (functional version)
 
+The following is a list of schedule management concepts to aid in project management and delivery that may appear on the PMI Project Management Professional (PMP) and/or Certified Associate in Project Management (CAPM) exams.
+
+In this list, the terms are in alphabetical order. To aid in exam preparation, the terms are listed in groupings based on their function.
+
 ## Table of Contents
 
 1. [Schedule Components](#schedule-components)
