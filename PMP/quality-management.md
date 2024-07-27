@@ -35,7 +35,7 @@ Accuracy refers to how close a measured value is to the actual (true) value. It 
 
 ### Cause-and-Effect Diagram
 
-Also known as the Ishikawa or fishbone diagram, this is a visual tool used to identify, explore, and display the possible causes of a specific problem or quality characteristic.
+Also known as the Ishikawa or fishbone diagram, this is a visual tool used to identify, explore, and display the possible causes of a specific problem or quality characteristic. For an deeper explanation and sample diagram, see ["Cause-and-Effect Digram (sample)"](https://github.com/pzerger/supplemental/blob/prod/PMP/visualizations.md#cause-and-effect-diagram)
 
 **Importance**: This diagram helps project managers and teams to thoroughly analyze problems, identify root causes, and develop effective solutions, leading to improved quality management.
 
