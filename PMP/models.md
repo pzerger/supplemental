@@ -1,6 +1,8 @@
 
 # Models (on the PMP and/or CAMP exams)
 
+Broadly speaking, a model is a simplified representation of a complex system or process. It provides a structured framework to understand, analyze, and address project-related challenges. Models are often used to visualize relationships between different elements, predict outcomes, and guide decision-making.
+
 The following is a list of models to aid in project management and delivery that may appear on the PMI Project Management Professional (PMP) and/or Certified Associate in Project Management (CAPM) exams.
 
 ## Table of Contents
