@@ -3,6 +3,8 @@
 
 The following is a list of visualizations to aid in project management and delivery that may appear on the PMI Project Management Professional (PMP) and/or Certified Associate in Project Management (CAPM) exams.
 
+**IMPORTANT:** We have included examples of each so you can see the visualization to better familiarize yourself for exam day.
+
 ## Table of Contents
 
 - [Affinity Diagram](#affinity-diagram)
