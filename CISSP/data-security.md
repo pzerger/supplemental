@@ -6,6 +6,7 @@
 - [Data Destruction](#data-destruction)
 - [Data Protection](#data-protection)
 - [Data Roles](#data-roles)
+- [Sensitive Data Types](#sensitive-data-types)
 
 ## Data/Information Lifecycle
 
@@ -98,3 +99,92 @@ The responsibilities and requirements of those who interact with data in various
 - **Data User**: Access and uses data appropriately.
 
 [Back to ToC](#table-of-contents)
+
+## Sensitive Data Types
+
+Sensitive data encompasses any information that, if compromised, could lead to harm, loss, or unauthorized access. Here are some common types:
+
+### Personally Identifiable Information (PII)
+PII is any data that can be used to identify an individual. This includes:
+
+* **Basic information:** Name, address, phone number, email address
+* **Identifiers:** Social Security number, driver's license number, passport number
+* **Financial data:** Bank account numbers, credit card numbers
+* **Biometric data:** Fingerprints, facial recognition, iris scans
+* **Online identifiers:** IP address, cookie data
+* **Geolocation data:** Precise location information
+
+### Protected Health Information (PHI)
+PHI is any information about health status, provision of healthcare, or payment for healthcare that is created or received by a covered entity. This includes:
+
+* Medical history
+* Diagnoses
+* Treatments
+* Prescriptions
+* Insurance information
+* Billing records
+* Patient names and addresses
+
+### Cardholder Data (CHD)
+CHD refers to any information related to a credit or debit card, including:
+
+* Cardholder name
+* Card number
+* Card expiration date
+* Card verification code (CVV)
+* PIN
+
+### Financial Information
+Financial information encompasses data related to an individual's or organization's financial status. This includes:
+
+* Bank account numbers and routing numbers
+* Account balances and transaction history
+* Payment card details (beyond CHD, such as payment preferences, billing addresses)
+* Investment information
+* Tax records
+
+### Intellectual Property
+Intellectual property (IP) refers to creations of the mind, such as inventions, literary and artistic works, designs, and symbols. Sensitive IP includes:
+
+* Trade secrets: Confidential business information that provides a competitive advantage
+* Patents: Exclusive rights granted for inventions
+* Copyrights: Exclusive rights for literary, dramatic, musical, and artistic works
+* Trademarks: Words, symbols, or designs identifying goods or services
+
+### Government Identification
+Government identification documents are issued by government authorities for verification of identity. Sensitive data within these documents includes:
+
+* Passport numbers
+* Driver's license numbers
+* Military ID numbers
+* National identification numbers
+
+### Government Records
+Government records contain information collected by government agencies. Sensitive data within these records includes:
+
+* Tax returns
+* Voter registration information
+* Criminal records
+* Birth and death certificates
+* Social security records
+
+### Children's Information
+Children's information is any data related to individuals under a specified age (typically 13 in the US). This includes:
+
+* Name
+* Address
+* Online activity
+* Personal preferences
+* Educational information
+
+### Biometric Data
+Biometric data refers to unique physical characteristics used for identification. This includes:
+
+* Fingerprints
+* Facial recognition
+* Iris scans
+* Voice patterns
+* DNA
+
+**Note:** The specific definition of sensitive data can vary depending on the jurisdiction and industry. It's essential to comply with relevant data protection regulations and industry standards.
+
