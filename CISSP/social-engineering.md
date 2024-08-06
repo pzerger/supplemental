@@ -1,4 +1,4 @@
-Here is the updated explanation with examples for the social engineering principles:
+Some basic elements of social engineering you should know for the exam. 
 
 ## Table of Contents
 
