@@ -16,7 +16,7 @@
 - [Rule-based access control (RBAC)](#rule-based-access-control-rbac)
 - [Social Engineering](#social-engineering)
 - [Spoofed logon screens](#spoofed-logon-screens)
-- 
+  
 ### Access Control List (ACL)
 An ACL is a table that tells a computer operating system which access rights each user or system has to a particular system resource, such as a file directory or individual file. ACLs specify which users or system processes have permission to read, write, or execute specific resources.
 
