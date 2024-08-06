@@ -1,4 +1,7 @@
 # Access Control
+Access control schemes and related concepts.
+
+## Table of Contents
 
 - [Access Control List (ACL)](#access-control-list-acl)
 - [Mandatory Access Control](#mandatory-access-control)
