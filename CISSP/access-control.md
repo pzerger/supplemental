@@ -1,26 +1,5 @@
 # Access Control 
 
-Access control schemes and related terminology.
-
-## Table of Contents 
-
-- [Access Control List (ACL)](#access-control-list-acl)
-- [Mandatory Access Control](#mandatory-access-control)
-- [Access aggregation attack](#access-aggregation-attack)
-- [Access Control Matrix](#access-control-matrix)
-- [Access control system](#access-control-system)
-- [Access control tokens](#access-control-tokens)
-- [Attribute-based access control (ABAC)](#attribute-based-access-control-abac)
-- [Discretionary access control (DAC)](#discretionary-access-control-dac)
-- [Logical access control system](#logical-access-control-system)
-- [Mandatory access controls (MAC)](#mandatory-access-controls-mac)
-- [Non-discretionary access control](#non-discretionary-access-control)
-- [Physical access control system](#physical-access-control-system)
-- [Role-based access control (RBAC)](#role-based-access-control-rbac)
-- [Rule-based access control (RBAC)](#rule-based-access-control-rbac)
-- [Social Engineering](#social-engineering)
-- [Spoofed logon screens](#spoofed-logon-screens)
-
 **Access Control List (ACL)** - An ACL is a table that tells a computer operating system which access rights each user or system has to a particular system resource, such as a file directory or individual file. ACLs specify which users or system processes have permission to read, write, or execute specific resources.
 
 [Back to ToC](#table-of-contents)
