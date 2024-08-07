@@ -4,7 +4,7 @@ Some basic elements of social engineering you should know for the exam.
 
 - [Social engineering (definition)](#social-engineering-definition)
 - [Social Engineering Principles](#social-engineering-principles) 
-- [Email-based threats](#email-based-threats)
+- [Messaging-based threats](#messaging-based-threats)
 - [Influence campaigns](#influence-campaigns)
 - [Other attacks and techniques](#other-attacks-and-techniques)
 
@@ -26,7 +26,7 @@ Read more on social engineering in security at https://en.wikipedia.org/wiki/Soc
 
 [Back to ToC](#table-of-contents)
 
-## Email-based threats 
+## Messaging-based threats 
 
 - **Phishing** - Fraudulent emails that appear legitimate to steal personal information.
 - **Spear phishing** - Highly targeted phishing against specific individuals.
