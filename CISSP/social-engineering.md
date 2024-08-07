@@ -52,5 +52,7 @@ Read more on phishing and related variants at https://en.wikipedia.org/wiki/Phis
 - **Invoice scams** - Fake invoices prompting payments to fraudulent accounts.
 - **Pretexting** - Creating a false scenario to trick people into divulging information.
 - **Prepending** - Manipulating caller ID to appear to call from a trusted source.
+- **Tailgating** - A social engineering attack where one person follows behind another person without using credentials.
+- **Piggybacking** - Similar to tailgating, but the authorized person knowingly allows the attacker to enter a facility  without a badge. 
 
 [Back to ToC](#table-of-contents)
