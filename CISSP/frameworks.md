@@ -1,5 +1,7 @@
 # Processes and Frameworks
 
+Compliance in the context of information security may be based on government or industry regulations (PCI, HIPAA), standards-based (NIST RMF or CSF, ISO 270010), or simply to corporate security policies. Below are several risk frameworks and security control frameworks that may appear on the CISSP exam.
+
 - [Risk Frameworks](#risk-frameworks)
     - [NIST Risk Management Framework](#nist-risk-management-framework-rmf)
     - [ISO 31000](#iso-31000-risk-management)
