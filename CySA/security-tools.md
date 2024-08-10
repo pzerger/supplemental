@@ -1,11 +1,14 @@
-Certainly. Here's the updated version with tool names in bold:
+# Security Tools
 
-# Table of Contents
+Security tools mentioned in the CompTIA CySA+ (CS0-003) exam syllabus or Sybex official study guide.
+
+## Table of Contents
 - [Forensics](#forensics)
 - [Logging and Monitoring](#logging-and-monitoring)
 - [Network](#network)
 - [Cloud](#cloud)
 - [Vulnerability Management](#vulnerability-management)
+- [Threat Intelligence](#threat-intelligence)
 
 ## Forensics
 
@@ -33,7 +36,7 @@ Certainly. Here's the updated version with tool names in bold:
 | **PostgreSQL Workload Analyzer (PoWA)** | An open-source PostgreSQL workload analyzer that collects and stores performance data. |
 | **Splunk** | A software platform for searching, monitoring, and analyzing machine-generated big data via a web-style interface. |
 | **Sysinternals suite** | A set of Windows system utilities and technical information to manage, diagnose, troubleshoot, and monitor a Windows environment. |
-| **Log analysis/correlation** | Various software solutions designed to collect, aggregate, and analyze log data from multiple sources to identify patterns and anomalies. |
+| **Tools: Log analysis/correlation** | Various software solutions designed to collect, aggregate, and analyze log data from multiple sources to identify patterns and anomalies. |
 | **Tripwire** | A security and data integrity tool used for monitoring and alerting on file changes. |
 
 ## Network
@@ -51,7 +54,7 @@ Certainly. Here's the updated version with tool names in bold:
 | **nmap** | A free, open-source tool used to discover hosts, services, and vulnerabilities on a network. |
 | **packet sniffer** | Software or hardware that can intercept and log traffic passing over a network. |
 | **Tcpdump** | A powerful command-line packet analyzer. |
-| **Network scanning and mapping** | Various software solutions used to discover and map out network topology, devices, and services. |
+| **Tools: Network scanning and mapping** | Various software solutions used to discover and map out network topology, devices, and services. |
 | **Wireshark** | A widely-used network protocol analyzer for network troubleshooting and analysis. |
 | **Zenmap** | The official graphical user interface for the Nmap Security Scanner. |
 
@@ -63,14 +66,12 @@ Certainly. Here's the updated version with tool names in bold:
 | **Pacu** | An open-source AWS exploitation framework, designed for testing the security of Amazon Web Services environments. |
 | **Prowler** | An open-source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening, and forensics readiness. |
 | **Scout Suite** | An open-source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments. |
-| **Cloud infrastructure assessment tools** | Various software solutions designed to evaluate and report on the security posture of cloud-based infrastructure. |
+| **Tools: Cloud infrastructure assessment tools** | Various software solutions designed to evaluate and report on the security posture of cloud-based infrastructure. |
 
 ## Vulnerability Management
 
 | Tool | Description |
 |------|-------------|
-| **AbuseIPDB** | A database of reported IP addresses involved in malicious activity. |
-| **AlienVault's Open Threat Exchange (OTX)** | An open threat intelligence community that allows participants to share threat data. |
 | **antimalware tools** | Software designed to detect, prevent, and remove malicious software. |
 | **Arachni** | An open-source web application security scanner framework. |
 | **Burp Suite** | An integrated platform for performing security testing of web applications. |
@@ -89,10 +90,17 @@ Certainly. Here's the updated version with tool names in bold:
 | **PortSwigger** | The company behind Burp Suite, offering various web security testing tools. |
 | **Qualys** | A cloud-based IT, security, and compliance solution provider. |
 | **Rapid7** | A company offering various security tools, including InsightVM for vulnerability management. |
+| **Tools: Debuggers** | Various software tools used for debugging programs and identifying issues in code execution. |
+| **Tools: Endpoint security** | Software solutions designed to secure end-user devices such as desktops, laptops, and mobile devices. |
+| **Tools: File analysis** | Software used to examine files for malicious content or anomalies. |
+| **Tools: Multipurpose** | Various tools that serve multiple functions in security testing and analysis. |
+| **Tools: Web application scanners** | Software designed to test web applications for security vulnerabilities. |
+
+## Threat Intelligence
+
+| Tool | Description |
+|------|-------------|
+| **AbuseIPDB** | A database of reported IP addresses involved in malicious activity. |
+| **AlienVault's Open Threat Exchange (OTX)** | An open threat intelligence community that allows participants to share threat data. |
 | **Recon-ng** | A full-featured web reconnaissance framework written in Python. |
-| **Debuggers** | Various software tools used for debugging programs and identifying issues in code execution. |
-| **Domain name service (DNS) and Internet Protocol (IP) reputation** | Services that provide information about the reputation of domains and IP addresses. |
-| **Endpoint security** | Software solutions designed to secure end-user devices such as desktops, laptops, and mobile devices. |
-| **File analysis** | Software used to examine files for malicious content or anomalies. |
-| **Multipurpose** | Various tools that serve multiple functions in security testing and analysis. |
-| **Web application scanners** | Software designed to test web applications for security vulnerabilities. |
+| **Tools: Domain name service (DNS) and Internet Protocol (IP) reputation** | Services that provide information about the reputation of domains and IP addresses. |
