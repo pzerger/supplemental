@@ -33,7 +33,7 @@ Certainly. Here's the updated version with tool names in bold:
 | **PostgreSQL Workload Analyzer (PoWA)** | An open-source PostgreSQL workload analyzer that collects and stores performance data. |
 | **Splunk** | A software platform for searching, monitoring, and analyzing machine-generated big data via a web-style interface. |
 | **Sysinternals suite** | A set of Windows system utilities and technical information to manage, diagnose, troubleshoot, and monitor a Windows environment. |
-| **Tools: Log analysis/correlation** | Various software solutions designed to collect, aggregate, and analyze log data from multiple sources to identify patterns and anomalies. |
+| **Log analysis/correlation** | Various software solutions designed to collect, aggregate, and analyze log data from multiple sources to identify patterns and anomalies. |
 | **Tripwire** | A security and data integrity tool used for monitoring and alerting on file changes. |
 
 ## Network
@@ -51,7 +51,7 @@ Certainly. Here's the updated version with tool names in bold:
 | **nmap** | A free, open-source tool used to discover hosts, services, and vulnerabilities on a network. |
 | **packet sniffer** | Software or hardware that can intercept and log traffic passing over a network. |
 | **Tcpdump** | A powerful command-line packet analyzer. |
-| **Tools: Network scanning and mapping** | Various software solutions used to discover and map out network topology, devices, and services. |
+| **Network scanning and mapping** | Various software solutions used to discover and map out network topology, devices, and services. |
 | **Wireshark** | A widely-used network protocol analyzer for network troubleshooting and analysis. |
 | **Zenmap** | The official graphical user interface for the Nmap Security Scanner. |
 
@@ -63,7 +63,7 @@ Certainly. Here's the updated version with tool names in bold:
 | **Pacu** | An open-source AWS exploitation framework, designed for testing the security of Amazon Web Services environments. |
 | **Prowler** | An open-source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening, and forensics readiness. |
 | **Scout Suite** | An open-source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments. |
-| **Tools: Cloud infrastructure assessment tools** | Various software solutions designed to evaluate and report on the security posture of cloud-based infrastructure. |
+| **Cloud infrastructure assessment tools** | Various software solutions designed to evaluate and report on the security posture of cloud-based infrastructure. |
 
 ## Vulnerability Management
 
@@ -90,9 +90,9 @@ Certainly. Here's the updated version with tool names in bold:
 | **Qualys** | A cloud-based IT, security, and compliance solution provider. |
 | **Rapid7** | A company offering various security tools, including InsightVM for vulnerability management. |
 | **Recon-ng** | A full-featured web reconnaissance framework written in Python. |
-| **Tools: Debuggers** | Various software tools used for debugging programs and identifying issues in code execution. |
-| **Tools: Domain name service (DNS) and Internet Protocol (IP) reputation** | Services that provide information about the reputation of domains and IP addresses. |
-| **Tools: Endpoint security** | Software solutions designed to secure end-user devices such as desktops, laptops, and mobile devices. |
-| **Tools: File analysis** | Software used to examine files for malicious content or anomalies. |
-| **Tools: Multipurpose** | Various tools that serve multiple functions in security testing and analysis. |
-| **Tools: Web application scanners** | Software designed to test web applications for security vulnerabilities. |
+| **Debuggers** | Various software tools used for debugging programs and identifying issues in code execution. |
+| **Domain name service (DNS) and Internet Protocol (IP) reputation** | Services that provide information about the reputation of domains and IP addresses. |
+| **Endpoint security** | Software solutions designed to secure end-user devices such as desktops, laptops, and mobile devices. |
+| **File analysis** | Software used to examine files for malicious content or anomalies. |
+| **Multipurpose** | Various tools that serve multiple functions in security testing and analysis. |
+| **Web application scanners** | Software designed to test web applications for security vulnerabilities. |
