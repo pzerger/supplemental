@@ -79,6 +79,7 @@ Security tools mentioned in the CompTIA CySA+ (CS0-003) exam syllabus or Sybex o
 | **cryptography tools** | Software used for encrypting and decrypting data, as well as for cryptanalysis. | Various tools (e.g., OpenSSL, GnuPG) |
 | **Debuggers** | Tools used to test and debug other programs. | Various tools (e.g., GDB, WinDbg) |
 | **GNU debugger (GDB)** | A portable debugger that runs on many Unix-like systems and works for many programming languages. | [GDB Website](https://www.gnu.org/software/gdb/) |
+| **Immunity debugger** | A powerful tool used by security professionals for writing exploits, analyzing malware, and reverse engineering binary files. | [Immunity Website](https://www.immunityinc.com/products/debugger/) |
 | **Internal scanning** | The process of examining an organization's internal network for vulnerabilities and misconfigurations. | Various tools (e.g., Nessus, OpenVAS) |
 | **Joe Sandbox** | A deep malware analysis platform for analyzing files, URLs, IP addresses, domains, and more. | [Joe Sandbox Website](https://www.joesecurity.org/) |
 | **Metasploit** | An open-source penetration testing framework. | [Metasploit Website](https://www.metasploit.com/) |
