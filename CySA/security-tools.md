@@ -95,6 +95,7 @@ Security tools mentioned in the CompTIA CySA+ (CS0-003) exam syllabus or Sybex o
 | **File analysis** | Software used to examine files for malicious content or anomalies. | Various tools (e.g., VirusTotal, Hybrid Analysis) |
 | **Multipurpose** | Various tools that serve multiple functions in security testing and analysis. | Various tools (e.g., Kali Linux, Parrot OS) |
 | **Web application scanners** | Software designed to test web applications for security vulnerabilities. | Various tools (e.g., OWASP ZAP, Acunetix) |
+| **ZAP (Zed Attack Proxy)** | An open-source web application security scanner. | [OWASP website](https://en.wikipedia.org/wiki/OWASP_ZAP) |
 
 ## Threat Intelligence
 
