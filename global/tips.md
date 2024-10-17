@@ -3,6 +3,8 @@
 
 To help you get the most from the Exam Flashcards app, included here are explanations for navigation buttons, icons, images, and acronyms. When you have found the information you need, you can return to the Flashcards App on the previous tab in your browser.
 
+ - To ensure you get the most from Exam Prep Flashcards, here a quick [VIDEO FEATURE DEMO](https://www.youtube.com/watch?v=FzEGT46tIUg).
+
 - [Feature and navigation tips](#feature-and-navigation-tips)
 - [Acronyms and abbreviations](#acronyms-and-abbreviations) 
 - [Buttons](#buttons)
